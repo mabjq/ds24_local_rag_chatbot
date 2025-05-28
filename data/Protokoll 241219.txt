@@ -1,0 +1,2577 @@
+ 
+ 
+Informationsklass: 0 - Öppen
+SAMMANTRÄDESPROTOKOLL 
+ 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+Plats och tid 
+Sölvesborg, Lageråssalen, 2024-12-19 kl 15:00-19:50 
+Beslutande ledamöter 
+ 
+Lina Jörnkrans S 
+Anders Fransson M 
+Paul Andersson KD 
+Benny Karlsson SD 
+Jörgen Larsson S 
+Mervi Tillaeus-Andersson KD 
+Anne-Charlotte Fröberg M 
+Percy Persson, SD (på vakant plats) 
+Viveka Söderdahl V 
+Anna Borgström SD §§ 97-99 
+Madelene Eksstrand KD §§ 100-108 (i Anna Borgströms frånvaro) 
+Mona Frigura M 
+ 
+Ej beslutande ersättare 
+Faire Baubec S §§ 97-101 
+Madelene Ekstrand KD §§ 97-99 
+Raed Shahen S §§ 97-98 
+Christel Nilsson S 
+Stefan Welander SoL 
+  
+ 
+Övriga närvarande 
+Patrik Edvardsson, IT-samordnare § 97 
+Joakim Vobern, MAS §§ 97-98 
+André Jönsson, förvaltningschef 
+Camilla Ryrstedt, verksamhetschef hemtjänst och myndighetsenheten 
+Kate Olsson, verksamhetschef särskilt boende §§ 97-99 
+Svenja Andersén, kvalitetsutvecklare 
+Camilla Eriksson, nämndsekreterare 
+ 
+ 
+ 
+ 
+ 
+Justeringsperson 
+Paul Andersson 
+Justeringens plats och tid 
+Digitalt 2024-12-20 
+ 
+Underskrifter 
+ 
+Sekreterare 
+………………………………………………………………… 
+Paragrafer 97-108 
+ 
+Camilla Eriksson 
+ 
+ 
+Ordförande 
+………………………………………………………………… 
+ 
+ 
+Lina Jörnkrans 
+ 
+ 
+Justerare 
+………………………………………………………………… 
+ 
+ 
+Paul Andersson  
+ 
+ 
+ 
+1
+SAMMANTRÄDESPROTOKOLL 
+ 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+ 
+ 
+ 
+ANSLAG/BEVIS 
+Protokollet är justerat. Justeringen har tillkännagivits genom anslag. 
+Organ 
+Vård- och omsorgsnämnden  
+Sammanträdesdatum 
+2024-12-19 
+Datum då anslaget publiceras 
+2024-12-20 
+Datum då anslaget avpubliceras 
+2025-01-13 
+Förvaringsplats för protokollet 
+Vård- och omsorgsnämndens kansli 
+ 
+Underskrift 
+……………………………………………………………………… 
+ 
+ 
+Camilla Eriksson  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+SAMMANTRÄDESPROTOKOLL 
+ 
+ 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+Ärendelista 
+§ 97 
+Redovisning av uppdrag 
+2024/5 
+4 
+§ 98 
+Redovisning av brukarundersökning "Vad tycker de äldre om 
+äldreomsorgen?" 
+2024/102 
+5 
+§ 99 
+Ekonomi- och verksamhetsinformation 
+2024/11 
+6 
+§ 100 
+Hyror särskilt boende 2025 
+2024/96 
+7 - 9 
+§ 101 
+Remiss för yttrande avseende motion om att Sölvesborgs kommun 
+blir testkommun för kommunala läkare 
+2024/99 
+10 - 13 
+§ 102 
+Redovisning av intern kontroll 2024 
+2023/93 
+14 
+§ 103 
+Riktlinjer hälso- och sjukvårdslagen - HSL 2025 
+2024/105 
+15 - 29 
+§ 104 
+Delegationsordning 2025 
+2024/106 
+30 - 42 
+§ 105 
+Attestlista 2025 
+2024/107 
+43 
+§ 106 
+Kö- och beläggningsstatistik 2024 
+2024/22 
+44 
+§ 107 
+Anmälan av delegationsbeslut 
+2024/1 
+45 
+§ 108 
+Meddelande 
+2024/2 
+46 
+  
+ 
+ 
+ 
+3
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 97 
+Dnr 2024/5 
+Redovisning av uppdrag 
+BESLUT 
+Vård- och omsorgsnämnden ger förvaltningschef och MAS i uppdrag att, med 
+anledning av avvikelser som granskats, kontrollera vilka dokumentationssystem 
+som används och hur det görs, samt vilken dokumentationsutbildning som ges. 
+Återrapportering ska ske på vård- och omsorgsnämndens sammanträde i januari. 
+__________ 
+Ärendet i korthet 
+Patrik Edvardsson, IT-samordnare informerar och svarar på frågor gällande 
+behörigheter i verksamhetssystem. 
+Joakim Vobern, MAS och Camilla Ryrstedt, verksamhetschef redovisar, enligt 
+uppdrag, dokumentation från SoL- och HSL-journaler gällande avvikelser som 
+begärts in. Verksamhetschef ger sin syn på vad som är eller borde vara rapporterat 
+enligt lex Sarah. 
+Bakgrund 
+Förvaltningschef och verksamhetschef begärde den 6 november, på delegation av 
+vård- och omsorgsnämnden, information gällande granskade avvikelser samt svar 
+på frågor om bemanning och rutiner gällande rapporter enligt lex Sarah. 
+Representanter från Timansstenar redovisade den 21 november sitt svar på 
+nämndens frågor och informerade om dokumentation enligt HSL gällande de 
+granskade avvikelserna. Nämnden gav MAS i uppdrag att till nästa sammanträde 
+begära in, granska och redovisa dokumentation från både SoL- och HSL-
+journalerna gällande berörda avvikelser. Det beslutades även att frågor om 
+behörigheter i verksamhetssystem ska utredas och att IT-samordnare bjuds in till 
+nämndens sammanträde i december. 
+Vid dialogärende på vård- och omsorgsnämndens arbetsutskott den 5 december 
+fick verksamhetschef i uppdrag att tillsammans med MAS granska och redovisa 
+avvikelserna på decembersammanträdet samt ge sin syn på saken om vad som är 
+eller borde vara rapporterat enligt lex Sarah. 
+__________  
+Exp. 
+André Jönsson, förvaltningschef och Joakim Vobern, MAS 
+4
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 98 
+Dnr 2024/102 
+Redovisning av brukarundersökning "Vad tycker de 
+äldre om äldreomsorgen?" 
+BESLUT 
+Informationen tas till handlingarna. 
+__________ 
+Ärendet i korthet 
+Svenja Andersén, kvalitetsutvecklare, redovisar Sölvesborgs del i Socialstyrelsens 
+brukarundersökning ”Vad tycker de äldre om äldreomsorgen?” 
+Bakgrund 
+Denna brukarundersökning är en rikstäckande undersökning av äldres uppfattning 
+om kvaliteten i hemtjänsten och på äldreboenden. 
+Syftet med undersökningen är dels att ge enskilda äldre en röst, dels att ta fram 
+kvantitativa mått på äldreomsorgen utifrån ett brukarperspektiv. Det möjliggör att 
+utfallet av insatser kan mätas och jämföras och därmed även utvärderas och 
+utvecklas i linje med vad personer som tar emot omsorg tycker. 
+Beslutsunderlag 
+Sammanställning från Socialstyrelsen av undersökningen ”Vad tycker de äldre om 
+äldreomsorgen?”: 
+ 
+ - Resultat för Sölvesborgs hemtjänst 
+ - Resultat för Sölvesborg gällande särskilt boende 
+__________  
+ 
+5
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 99 
+Dnr 2024/11 
+Ekonomi- och verksamhetsinformation 
+BESLUT 
+Informationen tas till handlingarna. 
+__________ 
+Ärendet i korthet 
+Kvalitetsutvecklare informerar om inkomna lex Sarah-rapporter.  
+Sedan förra nämnden, den 21 november 2024 har följande rapport inkommit: 
+Nr 2876. 
+Förvaltningschef och verksamhetschefer redovisar siffror, prognoser och vad som 
+är på gång för respektive verksamhet. 
+Beslutsunderlag 
+Månadsuppföljning november 2024 
+Presentation, 241219, förvaltningschef och verksamhetschefer 
+__________  
+ 
+6
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 100 
+Dnr 2024/96 
+Hyror särskilt boende 2025 
+FÖRSLAG – Kommunfullmäktige  
+Vård- och omsorgsnämnden beslutar att föreslå kommunfullmäktige att fastställa 
+hyrorna i enlighet med förslaget, att gälla från 2025-01-01 
+__________ 
+Ärendet i korthet 
+Föreligger förslag till hyror för de särskilda boendeformerna inom vård- och 
+omsorgsnämndens ansvarsområde i bilaga 1 och 2. 
+Samtliga särskilda boende föreslås höjas med 4,85 % från 2025-01-01. Höjningen 
+baseras på Sölvesborgshems fastställda höjning, samt de investeringar i 
+förbättringar i boendemiljöerna som vård- och omsorgsnämnden genomför på de 
+särskilda boendena. 
+Bakgrund 
+Vård- och omsorgsnämnden reviderar årligen sina avgifter på samtliga boenden 
+där biståndsbeslut finns gällande särskilt boende.  
+2017 genomfördes en revidering av hyresnivåerna utefter bland annat 
+rumsstorlek. Hyrorna för de hyresgäster som då var bosatta i de särskilda 
+boendena skulle ligga kvar på den dåvarande nivån medan de som flyttade in efter 
+2017-01-01 erhöll en högre hyra, satt efter andra kriterier än tidigare. Av dem som 
+då erhöll den lägre hyran kvarstår 5 hyresgäster. Den lägre hyran dessa idag 
+betalar framgår av bilagan ” Hyror säbo 2025 - kontrakt före 2017-01-01 ”.  
+När nya hyresgäster flyttar in betalar man hyra utifrån den nya modell som 
+infördes 2017. 
+Beslutsunderlag 
+VON § 83/2024 
+KF § 166/2024 
+Förvaltningschef André Jönssons tjänsteskrivelse 2024-12-10 
+Hyror särskilda boende 2025 - kontrakt före 2017-01-01  
+Hyror särskilda boende 2025 – kontrakt efter 2017-01-01 
+__________  
+Exp. 
+Kommunfullmäktige 
+7
+ 
+Informationsklass: 0 - Öppen 
+ 
+HYROR VÅRD OCH OMSORG 2024 2025 
+Särskilda boenden 2024 2025 – kontrakt tecknade efter 
+170101 
+Säbo                Platser 
+<26 kvm 
+26-29 kvm 
+>29  kvm 
+Gerbogården 
+52 
+4 518 4 737 
+5 022 5 266   
+5 551 5 820 
+Slottsgården 
+45 
+*** 
+5 022 5 266 
+5 551 5 820 
+Solgården 
+30 32 
+*** 
+*** 
+6 910 7 245 
+Solgården 
+(kontrakt 
+evakuerade 
+från Tärnan) 
+10 8 
+***     
+***     
+4 518 / 5 022 
+4 737 /  5 266 
+ 
+8
+ 
+Informationsklass: 0 - Öppen 
+ 
+HYROR VÅRD OCH OMSORG 2024 2025 
+Särskilda boenden 2024 2025 – kontrakt tecknade före 
+170101 
+Boende              Antal kontrakt 
+     <26 kvm 
+26-29 kvm 
+>29 kvm 
+ 
+ 
+ 
+Slottsgården              2 1 st                              *** 
+         4 054 4 251     
+           *** 
+ 
+ 
+Solgården                 4 3st 
+         *** 
+                       ***             5 875  6 160   
+1 rum kokvrå 
+ 
+ 
+Solgården                    1st       
+          ***                             ***                3 731 3 912 
+(evakuerad från Tärnan)   
+ 
+ 
+Övriga lägenheter: 
+ 
+Duvan                              5 st                        1 RoK, 2 RoK samt 3 RoK            Höjs 7 4,85 % av  
+                                                                                                                                     befintlig hyra  
+                                                                                                                                      
+ 
+Anvisningslägenhet     1 st                          ***                                                    Följer bostadsrätts- 
+                                                                                                                                     föreningens beslut 
+9
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 101 
+Dnr 2024/99 
+Remiss för yttrande avseende motion om att 
+Sölvesborgs kommun blir testkommun för kommunala 
+läkare 
+BESLUT 
+Vård- och omsorgsnämnden beslutar att lämna bilagt yttrande som svar på 
+remissen angående ”Motion om att Sölvesborgs kommun blir testkommun för 
+kommunala läkare”. 
+__________ 
+Benny Karlsson SD reserverar sig mot beslutet. 
+__________ 
+Ärendet i korthet 
+Motion gällande att ”Sölvesborgs kommun blir testkommun för kommunala 
+läkare” har inkommit till kommunfullmäktige. Kommunstyrelsen har sänt 
+motionen för yttrande till vård- och omsorgsnämnden att svara senast den 2025-
+01-15. 
+Bakgrund 
+Kommunen ansvarar för insatser upp till och med sjuksköterskenivå, men gör även 
+insatser över denna nivå regelbundet men då i samverkan med regionen och med 
+medicinska vårdplaner och gemensamma utbildningsinsatser som stöd. 
+Beslutsunderlag 
+VONAU § 78/2024. 
+Förvaltningschef André Jönssons yttrande 2024-11-28. 
+Motion, Louise Erixon och Lisa Österbladh SD, 2024-07-29. 
+__________  
+Exp. 
+Kommunfullmäktige 
+10
+ 
+ 
+ 
+Informationsklass: 1- Intern
+ 
+Vård- och omsorgsförvaltningen 
+TJÄNSTESKRIVELSE 
+Sida 
+1(3) 
+Datum 
+2024-11-28 
+  
+  
+ 
+ 
+ 
+ 
+ 
+Handläggare 
+André Jönsson, 0456-816324 
+andre.jonsson@solvesborg.se 
+ 
+ 
+Tjänsteskrivelse – remissyttrande avseende 
+motion om att Sölvesborg blir testkommun för 
+kommunala läkare 
+Förslag till beslut 
+Vård- och omsorgsnämnden beslutar att lämna nedan yttrande som svar på 
+remissen angående ”Motion om att Sölvesborgs kommun blir testkommun 
+för kommunala läkare”. 
+Påverkar beslutet barn/ungdomar, direkt eller indirekt? 
+☐ Ja, se bifogad barnchecklista 
+☒ Nej, se förklaring nedan. 
+Förklaring (vid svar Nej ovan) 
+Avser remissvar till kommunstyrelsen. 
+Ärendet i korthet 
+Motion gällande ” Motion om att Sölvesborgs kommun blir testkommun för 
+kommunala läkare” har inkommit till kommunfullmäktige. 
+Kommunstyrelsen har sänt motionen för yttrande till vård- och 
+omsorgsnämnden att svara senast den 2025-01-15. 
+Bakgrund 
+Sölvesborg kommunala hälso- och sjukvård har ett förhållandevis 
+välfungerande samarbete med de vårdcentraler som är etablerade i 
+Sölvesborg, såväl den regiondrivna som den som drivs inom hälsovalet 
+(privat aktör). Likt vad som nämns i motionen klarade Sölvesborg bland 
+annat på grund av detta pandemins utmaningar på ett bättre sätt än riket i 
+genomsnitt, men Sölvesborg har gott resultat även i flera andra parametrar 
+där samarbetet region/kommun är avgörande. Exempel är antal dagar 
+inneliggande medborgare i slutenvård får vänta på att kunna komma hem 
+till sin bostad och hur många återinskrivningar som sker inom 30 dagar, 
+11
+Sölvesborgs kommun 
+Datum 
+2024-11-28 
+  
+  
+Sida 
+2(3) 
+ 
+ 
+Informationsklass: 1- Intern
+angående sådana medborgare. Denna statistik följs månatligen både av 
+kommun och region. 
+Just nu och sedan ett par år tillbaka pågår en nationell omställning till en 
+”nära vård”, Blekinge har utformat sin egna initiala modell där 
+primärvården skall vara navet i den nära vården. Primärvårdsnivån är både 
+kommun och vårdcentraler tillsammans med höga krav på samverkan för 
+att medborgarna skall uppleva vården som ”nära” och inte krånglig eller 
+otillgänglig. 
+Kommunen ansvarar för insatser upp till och med sjuksköterskenivå, men 
+gör även insatser över denna nivå regelbunden men då i samverkan med 
+regionen och med medicinska vårdplaner och gemensamma 
+utbildningsinsatser som stöd. Det finns etablerade kontaktvägar när den 
+kommunala hälso- och sjukvården behöver stöd och konsultation av 
+region/vårdval. Region/vårdval sköter även ronder efter hur personer valt 
+att lista sig vilket man som patient har rätt att göra efter eget val och tycke. 
+Vårdvalet och kommunen utför gemensamma uppsökande besök hos 
+medborgare som börjat få utmaningar kopplat till hälsa på ett tidigt 
+stadium, detta med syfte att tidigt fånga upp sådana personer och i 
+samverkan göra proaktiva insatser för att senarelägga större ohälsa hos 
+framför allt den äldre befolkningen. 
+Även om mycket fungerar väl förekommer givetvis även utmaningar, dessa 
+är främst kopplade till när det finns större läkarvakanser hos någon part, 
+vilket Sölvesborg bedöms ha varit relativt förskonade från. Kommunen har 
+möjlighet att ”köpa läkartjänst från annat håll” om samverkansavtalet inte 
+kan följas på en tillräcklig patientsäker nivå. Detta är dock svårt i praktiken 
+då dessa inte har lokal-eller personkännedom, eller tillgång till aktuell 
+dokumentation/journaler. 
+ 
+Bedömning 
+Primärvårdsnivån utgörs redan idag av både regionfinansierad primärvård 
+och kommunal primärvård, tillgången lokalt, regionalt och nationellt på 
+läkare verksamma på denna nivå är begränsat till antalet. En rekrytering på 
+ett ställe, skapar oftast en vakans på ett annat inom samma vårdnivå. 
+Läkarstödet är som mest kritiskt för den kommunala hälso- och sjukvården 
+på ”Ob-tid”, för att täcka sådan tid i schema behöver 3-4 läkare anställas 
+beroende på tjänstgöringsgrad. Läkare önskar inte sällan genom karriären 
+arbeta mot olika patientkategorier och åldrar, vårdnivåer och 
+sjukdomsspektra av utvecklingsskäl och att hålla egna kompetensen och 
+kunskaperna à jour. 
+12
+Sölvesborgs kommun 
+Datum 
+2024-11-28 
+  
+  
+Sida 
+3(3) 
+ 
+ 
+Informationsklass: 1- Intern
+Läkares vidareutbildningar/kurser, tillgång till patientdata, vardagligliga 
+kontakter in i slutenvården med mera är starkt förknippat med regionernas 
+sfär, kostnader för detta samt vikarier (hyr-/stafettläkare) är något annat 
+än vad kommunen är vana vid att hantera. 
+Förvaltningens och inte minst MAS (medicinskt ansvarig sjuksköterska) 
+bedömning på det hela taget är att en god samverkan och ett gott 
+partsgemensamt samarbete på primärvårdsnivån, är den mest framkomliga 
+vägen för att medborgare i Sölvesborg skall få tillgång till en god och nära 
+vård även gällande läkarnivån. 
+ 
+André Jönsson 
+Förvaltningschef, Vård- och 
+omsorgsförvaltningen. 
+Beslut sänds till: 
+Kommunstyrelsen 
+ 
+13
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 102 
+Dnr 2023/93 
+Redovisning av intern kontroll 2024 
+BESLUT 
+Vård- och omsorgsnämnden godkänner årsredovisningen av intern kontroll 2024. 
+__________ 
+Ärendet i korthet 
+Camilla Eriksson, nämndsekreterare redovisar 2024 års intern kontroll. 
+Vård- och omsorgsnämnden fastslog 2024-02-29 intern kontrollplan för 2024 med 
+tre kontrollområden: 
+• 
+Kompetensförsörjning 
+• 
+Införande av välfärdsteknik för kommuninvånarna 
+• 
+Införande av digitala arbetssätt för medarbetarna 
+Återrapporteringar har genomförts i enlighet med planen och resultat redovisas. 
+Bakgrund 
+Styrelser och nämnder ansvarar för den interna kontrollen enligt kommunallagen 
+(SFS 1991:900) 6 kap 7 §. Syftet med den interna kontrollen är att se till att 
+verksamheten bedrivs i enlighet med de mål och riktlinjer som fullmäktige har 
+bestämt samt de föreskrifter som gäller för verksamheten. Enligt kommunallagen 
+ska den interna kontrollen vara tillräcklig, bygga på en risk- och väsentlighetsanalys 
+och se till att verksamheten bedrivs på ett i övrigt tillfredsställande sätt. 
+Beslutsunderlag 
+VONAU § 79/2024 
+Nämndsekreterare Camilla Erikssons tjänsteskrivelse 2024-11-26 
+__________  
+ 
+14
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 103 
+Dnr 2024/105 
+Riktlinjer hälso- och sjukvårdslagen - HSL 2025 
+BESLUT 
+Vård- och omsorgsnämnden beslutar att godkänna förslag till riktlinjer gällande 
+hälso- och sjukvårdslagen att gälla från och med 2025-01-01. 
+__________ 
+Ärendet i korthet 
+Riktlinjer med de viktigaste överenskommelserna och principerna beskrivna togs 
+inför 2024 fram för den kommunala hälso- och sjukvården i Sölvesborg. Dessa ska 
+ses över årligen och uppdateras vid behov. 
+Inga föreslagna ändringar inför 2025. 
+Bakgrund 
+Ett samlat principdokument i form av riktlinjer för den kommunala hälso- och 
+sjukvården, är stödjande för att tydliggöra vård- och omsorgsnämndens samt vård- 
+och omsorgsförvaltningens uppdrag och ansvar gällande hälso- och sjukvård (HSL). 
+Beslutsunderlag 
+VONAU § 81/2024. 
+Verksamhetschef André Jönssons tjänsteskrivelse 2024-11-28. 
+Förslag riktlinjer HSL 2025. 
+__________  
+Exp. 
+Svenja Andersén, kvalitetsutvecklare, för inlägg i ledningssystemet 
+15
+          
+       
+ 
+ 
+Sid 1 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+ 
+ 
+ 
+ 
+Riktlinjer för hälso- och 
+sjukvård i Sölvesborgs 
+kommun 
+ 
+ 
+ 
+Hälso- och sjukvårdslagen 
+ 
+ 
+ 
+ 
+ 
+Dokumenttyp 
+Riktlinjer hälso- och 
+sjukvårdslagen, HSL 
+Beslutad av (datum och §) 
+ 
+Giltig fr o m 
+ 
+2025-01-01 2024-01-01 
+Dokumentansvarig 
+ 
+Gäller för 
+Hälso och sjukvård HSL 
+Senast reviderad 
+ 
+ 
+ 
+16
+          
+       
+ 
+ 
+Sid 2 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+ 
+Innehållsförteckning 
+Riktlinjer handläggning vård- och omsorgsnämnden Sölvesborgs kommun .......................3 
+1. DOKUMENTATION .............................................................................................................4 
+2. HEMSJUKVÅRD ................................................................................................................4 
+3. VÅRD PÅ UPPDRAG FRÅN ANNAN VÅRDGIVARE ...........................................................5 
+4. SÄRSKILDA BOENDEN I ÄLDREOMSORGEN ...................................................................5 
+5. KORTTIDSPLATS I ÄLDREOMSORG .................................................................................5 
+6. DAGVERKSAMHET ENLIGT SOL .......................................................................................6 
+7. DAGLIG VERKSAMHET ENLIGT LSS .................................................................................6 
+8. BOSTAD MED SÄRSKILD SERVICE FÖR VUXNA ..............................................................6 
+9. PERSONLIG ASSISTANS ...................................................................................................7 
+10. EGENVÅRD ......................................................................................................................7 
+11. DELEGERING ....................................................................................................................7 
+12. LÄKEMEDELSHANTERING ..............................................................................................7 
+13. REHABILITERING/HABILITERING ...................................................................................8 
+14. HJÄLPMEDEL ..................................................................................................................8 
+15. ARBETSTEKNISKA HJÄLPMEDEL .................................................................................10 
+16. BASAL HYGIEN ..............................................................................................................10 
+17. MUNHÄLSA ....................................................................................................................10 
+18. NUTRITION ....................................................................................................................10 
+19. TRYCKSÅR .....................................................................................................................11 
+20. FALL ..............................................................................................................................11 
+21. VÅRD I LIVETS SLUT ......................................................................................................11 
+22. KVALITETSREGISTER ...................................................................................................12 
+23. AVVIKELSEHANTERING ...............................................................................................12 
+24. SAMVERKAN VID UTSKRIVNING ..................................................................................12 
+25. UTOMLÄNSPATIENTER ................................................................................................13 
+26. PRIVATA AKTÖRER ENLIGT LOV .................................................................................13 
+27. STYRDOKUMENT ..........................................................................................................13 
+ 
+17
+          
+       
+ 
+ 
+Sid 3 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+ 
+Riktlinjer handläggning vård- och omsorgsnämnden Sölvesborgs kommun 
+ 
+Denna riktlinje gäller handläggning av ärenden enligt hälso- och sjukvårdslagen. 
+ 
+Syfte 
+Vård- och omsorgsnämnden fattar beslut om riktlinjer.  
+ 
+Syftet med riktlinjerna är att: 
+• 
+Vägleda vid bedömningar och utförande samt tydliggöra kommunens hälso-och 
+sjukvårdsuppdrag. 
+• 
+Säkerställa att en god och säker vård bedrivs.  Det är den som behöver vården 
+mest som ska erbjudas denne i första hand. 
+• 
+Definiera vad kommunal sjukvård innebär i Sölvesborgs kommun. 
+ 
+Riktlinjerna innebär inte någon inskränkning i den enskildes rätt att få en individuell 
+bedömning samt utförande utifrån nedan. 
+ 
+Vårdbegäran → bedöma behov av utredning →utreda→ bedöma behov och planera 
+åtgärder→ åtgärda→ följa upp. 
+ 
+ 
+Ansvar 
+Vård- och omsorgsnämnden har det övergripande ansvaret för hälso-och sjukvården i 
+Sölvesborgs kommun. Nämnden tar beslut om patientsäkerhetsmål och resurser. 
+I varje kommun ska enligt hälso- och sjukvårdslagen § 24 finnas medicinskt ansvarig 
+sjuksköterska, som ansvarar för kvalitet och säkerhet och kan nås via kommunens växel. 
+Numera finns även en MAR vilket står för medicinskt ansvarig för rehab. Den tjänsten 
+delas med Karlshamn och Olofströms kommun. 
+ 
+Hälso-och sjukvårdspersonal är enligt patientsäkerhetslagen (2010:659) den personal 
+som har legitimation som sjuksköterska, specialistsjuksköterska, sjukgymnast/ 
+fysioterapeut och arbetsterapeut. Övrig personal som utför delegerade insatser räknas 
+även som hälso-och sjukvårdspersonal under denna insats. 
+ 
+Enligt 18 § i hälso- och sjukvårdslagen ansvarar kommunen för hälso- och sjukvård i 
+särskilda boendeformer för service och omvårdnad. Ansvaret omfattar också hälso- och 
+sjukvård i bostäder med särskild service för personer med funktionsnedsättning i alla 
+åldrar. Kommunen ska även erbjuda en god hälso- och sjukvård åt dem som vistas i 
+dagverksamhet enligt 10 § SoL. 
+18
+          
+       
+ 
+ 
+Sid 4 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+Fr.o.m. januari 2013 omfattar också ansvaret de personer som behöver få sitt hälso- och 
+sjukvårdsbehov tillgodosett i bostaden, dvs. hemsjukvård. I det kommunala ansvaret ingår 
+också att erbjuda habilitering, rehabilitering och hjälpmedel för personer med 
+funktionsnedsättning i samband med all hemsjukvård. 
+Det kommunala hälso- och sjukvårdsansvaret är upp till nivån legitimerad sjuksköterska, 
+legitimerad arbetsterapeut, legitimerad fysioterapeut. Läkaransvaret ligger på Region 
+Blekinge. 
+Verkställighet: Sjuksköterska finns tillgänglig dygnet runt oavsett boendeform, 
+arbetsterapeut och sjukgymnast/fysioterapeut enbart dagtid vardagar. Individens 
+identifierade behov styr insatserna från kommunens hälso-och sjukvård. 
+1. DOKUMENTATION 
+Det åligger all legitimerad personal att föra journal över de patienter som omfattas av 
+kommunal hälso-och sjukvård. 
+Verkställighet: Vårdgivaren ska ansvara för att rutiner för dokumentation och 
+patientuppgifter ska säkerställa att uppgifterna så långt som möjligt dokumenteras med 
+hjälp av nationellt fastställda begrepp och termer, klassifikationer och olika kodverk (ICF) 
+samt KVÅ-koder. Rutinerna ska även säkerställa att patientjournalen kan utgöra ett 
+underlag för uppföljning av vårdens resultat och kvalitet. Dokumentationen sker i 
+kommunens verksamhetssystem enligt rutin.  
+2. HEMSJUKVÅRD 
+Om patienten oavsett ålder inte kan ta sig till primärvården själv eller med hjälp av annan 
+kan hemsjukvård bli aktuellt. Uppdraget kan t ex komma från patienten eller närstående, 
+läkare eller hemtjänsten.  
+Hemsjukvård kan bestå av: 
+• 
+Lägga om sår 
+• 
+Läkemedel 
+• 
+Provtagning 
+• 
+Vård i livets slut 
+• 
+Bedömning enligt förskrivningsprocessen 
+• 
+Rehabilitering 
+ 
+Kommunens sjuksköterskor ansvarar inte för akut sjukdom/skada hos patienter utan 
+beviljad hemsjukvård. Då kontaktas primärvård och på jourtid 1177/112. 
+Verkställighet: Sjuksköterska, arbetsterapeut och/eller sjukgymnast/fysioterapeut 
+bedömer vid ett hembesök eller via telefon om insatsen kräver hemsjukvård. 
+Kontaktuppgifter finns på Sölvesborgs kommuns hemsida. Vissa insatser kan utföras av 
+19
+          
+       
+ 
+ 
+Sid 5 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+hemtjänsten på delegation av legitimerad personal. Vid hemsjukvårdsbesök utgår en 
+avgift, som är fastställd av vård- och omsorgsnämnden. Vid första hembesöket lämnas 
+blankett för inkomstuppgift samt informationsbroschyr. Kontrakt skrivs gällande 
+hemsjukvård som ges av kommunens sjuksköterskor. 
+3. VÅRD PÅ UPPDRAG FRÅN ANNAN VÅRDGIVARE 
+I vissa fall kan hemsjukvården utföra uppdrag åt andra vårdgivare till patienter utan 
+beviljad hemsjukvård. Syftet med att hemsjukvården utför definierade och begränsade 
+uppdrag åt andra vårdgivare, som har kvar det fulla vårdansvaret, är att förenkla vården 
+för patienten, vara den ordinerade läkarens förlängda arm och minska behovet av 
+slutenvård. 
+Uppdragen kan initieras av primärvården, slutenvården, 1177 samt ambulans, 
+bedömningsbil eller läkarbilen. 
+Verkställighet: Primärvård eller slutenvård kontaktar tjänstgörande sjuksköterska, som 
+informeras om det aktuella behovet och gör en bedömning om och när insatsen kan 
+utföras. 
+4. SÄRSKILDA BOENDEN I ÄLDREOMSORGEN 
+Ett beviljat bistånd till särskilt boende innebär inte med automatik att det finns behov av 
+hälso-och sjukvårdsinsatser. Dessa insatser föregås alltid av bedömning av legitimerad 
+personal och ingår i omsorgsavgiften när behov föreligger. 
+Verkställighet: Efter inflytt på särskilt boende genomför sjuksköterska ankomstsamtal 
+tillsammans med patient och/eller närstående. Under samtalet görs bedömning om vilka 
+hälso-och sjukvårdsinsatser som är aktuella samt vad patienten klarar själv. 
+Det är arbetsterapeutens/fysioterapeutens/sjukgymnastens ansvar att bedöma vilka 
+åtgärder som är lämpliga, bedöma om kontakten ska leda till besök hos patienten. 
+5. KORTTIDSPLATS I ÄLDREOMSORG 
+Ett beviljat bistånd till korttidsplats kan ges enligt riktlinjer gällande handläggning enligt 
+socialtjänstlagen för Sölvesborgs kommun. 
+Det innebär inte med automatik att det finns behov av hälso- och sjukvårdsinsatser. Dessa 
+föregås alltid av bedömning från legitimerad personal och ingår i omsorgsavgiften när 
+behov föreligger. 
+Verkställighet: Sjuksköterska genomför ankomstsamtal tillsammans med patient 
+och/eller närstående. Under samtalet görs bedömning om vilka hälso- och 
+sjukvårdsinsatser som är aktuella samt vad patienten klarar själv. Det är 
+arbetsterapeuten/fysioterapeuten/sjukgymnasten gör hembesök för att bedöma vilka 
+åtgärder som är lämpliga. 
+20
+          
+       
+ 
+ 
+Sid 6 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+ 
+De patienter som har ett fortsatt behov av hälso- och sjukvårdsinsatser efter vistelsen på 
+korttidsboende ska överrapporteras till ansvarig legitimerad personal. Eventuella insatser 
+ska alltid föregås av en samordnad planering. 
+6. DAGVERKSAMHET ENLIGT SOL 
+Dagverksamheten föregås av ett beviljat bistånd och under vistelsen har kommunen 
+hälso– och sjukvårdsansvar. 
+ 
+Verkställighet: Patienter som har beviljad hemsjukvård eller bor på ett särskilt boende 
+ansvarar kommunens sjuksköterska för och kontakt ska tas enligt rutin. 
+Om någon besökande på dagverksamheten som normalt sett bor i ordinärt boende utan 
+beviljad hemsjukvård blir akut sjuk ska personal i första hand kontakta primärvården eller 
+1177 för råd och stöd. Vid mycket akuta tillstånd kontaktas 112 omgående eller på 
+sjuksköterskans begäran. Ansvarig vårdcentral samt anhörig ska meddelas om den 
+besökande åkt till sjukhus.  
+7. DAGLIG VERKSAMHET ENLIGT LSS 
+Dagverksamheten föregås av ett beviljat bistånd och under vistelsen har kommunen 
+ansvaret för hälso– och sjukvården. 
+ 
+Verkställighet: Om någon besökande på dagverksamheten som normalt sett bor i 
+ordinärt boende utan beviljad hemsjukvård blir akut sjuk ska personal i första hand 
+kontakta primärvård eller 1177 för råd och stöd. Vid mycket akuta tillstånd kontaktas 112 
+omgående eller på sjuksköterskans begäran. Ansvarig vårdcentral samt anhörig ska 
+meddelas om den besökande åkt till sjukhus. Kommunens sjuksköterska ska kontaktas 
+när besökare bor inom LSS boende. 
+8. BOSTAD MED SÄRSKILD SERVICE FÖR VUXNA 
+Ett beviljat bistånd till bostad med särskild service innebär inte med automatik att det 
+finns behov av hälso- och sjukvårdsinsatser. Dessa insatser föregås alltid av bedömning 
+av legitimerad personal. 
+Verkställighet: Efter inflytt genomför sjuksköterska ankomstsamtal tillsammans med 
+patient och/eller närstående. Under samtalet görs bedömning om vilka hälso- och 
+sjukvårdsinsatser som är aktuella. Det är arbetsterapeutens/fysioterapeutens/ 
+sjukgymnastens ansvar att bedöma vilka åtgärder som är lämpliga, bedöma om kontakten 
+ska leda till besök hos patienten. 
+ 
+21
+          
+       
+ 
+ 
+Sid 7 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+9. PERSONLIG ASSISTANS 
+Om patienten oavsett ålder inte kan ta sig till primärvården själv eller med hjälp av annan 
+kan hemsjukvård bli aktuellt. 
+ 
+Verkställighet: Sjuksköterska, arbetsterapeut och/eller sjukgymnast/fysioterapeut 
+bedömer vid ett hembesök eller via telefon om insatsen kräver hemsjukvård. 
+Kontaktuppgifter finns på Sölvesborgs kommuns hemsida. Vissa insatser kan utföras av 
+hemtjänsten på delegation av legitimerad personal. Vid hemsjukvårdsbesök utgår en 
+avgift, som är fastställd av vård- och omsorgsnämnden. Vid första hembesöket lämnas 
+blankett för inkomstuppgift samt informationsbroschyr. Kontrakt skrivs gällande 
+hemsjukvård som ges av kommunens sjuksköterskor. 
+10. EGENVÅRD 
+Om patienten i ordinärt eller särskilt boende själv kan ansvara för en hälso- och 
+sjukvårdsåtgärd med hjälp av omvårdnadspersonal bedöms detta som egenvård. 
+Verkställighet: Den behandlande legitimerade yrkesutövaren ska, inom sitt 
+ansvarsområde, bedöma om en hälso- och sjukvårdsåtgärd kan utföras som egenvård. 
+Intyg till biståndshandläggarna krävs om patienten behöver handräckning ifrån personal. 
+11. DELEGERING 
+Delegering av hälso- och sjukvårdsåtgärder är en nödvändighet för att verksamheterna 
+och vårt uppdrag ska fungera. Om det ur ett helhetsperspektiv bättre svarar mot 
+patientens behov att en medicinsk arbetsuppgift utförs av en person med enbart reell 
+kompetens får delegering av uppgiften ske.  
+Verkställighet: För att försäkra sig om att det är möjligt att utföra arbetsuppgiften inom 
+kommunens hälso- och sjukvård på ett säkert sätt krävs samråd mellan enhetschef och 
+sjuksköterska respektive sjukgymnast/fysioterapeut eller arbetsterapeut när det gäller 
+delegeringsbeslut och bemanning. Delegering sker efter gällande rutin och 
+riskbedömning. 
+12. LÄKEMEDELSHANTERING 
+Grunden för läkemedelshantering inom kommunal primärvård är att den ska vara 
+individuellt anpassad och säker utifrån den enskildes förutsättningar och sjukdom. 
+Iordningsställande, administrering eller överlämnande av läkemedel ska ske efter 
+läkemedelsordination samt genom att adekvata hygienrutiner tillämpas. Endast 
+sjuksköterskor, läkare och tandläkare med såväl formell som reell kompetens får delegera 
+22
+          
+       
+ 
+ 
+Sid 8 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+iordningställande, administrering eller överlämnade av läkemedel vilket sker i kommunen 
+efter genomförd och godkänd delegeringsutbildning som följs upp kontinuerligt. 
+13. REHABILITERING/HABILITERING 
+Rehabilitering är insatser som ska bidra till att en person med förvärvad 
+funktionsnedsättning, utifrån dennes behov och förutsättningar, återvinner eller behåller 
+bästa möjliga funktionsförmåga samt skapar goda villkor för ett självständigt liv och ett 
+aktivt deltagande i samhällslivet. Rehabilitering står för samordnade insatser från olika 
+kompetensområden och verksamheter.  
+Habilitering omfattar i princip samma insatser som rehabilitering men målgruppen är 
+personer med medfödd eller tidig förvärvad funktionsnedsättning och målet är att 
+utveckla och behålla bästa möjliga funktionsförmåga samt skapa goda villkor för ett 
+självständigt liv och ett aktivt deltagande i samhällslivet. 
+ 
+Vardagsrehabilitering/habilitering innebär att aktivering och träning vävs in i vardagen. 
+Det är en allmän rehabilitering som kan och ska utföras av all personal och är inte en 
+hälso- och sjukvårdsinsats. Vardagsrehabiliterande förhållningssätt ska ges av all 
+personal till alla individer oavsett ålder och sjukdom eller skada. 
+Specifik rehabilitering/habilitering är insatser enligt hälso- och sjukvårdslagen. Specifik 
+rehabilitering kan endast utföras av personer med formell kompetens inom 
+rehabilitering/habilitering dvs. legitimerade arbetsterapeuter och sjukgymnaster/ 
+fysioterapeuter.  
+Verkställighet: Specifik rehabilitering/habilitering utförs av legitimerad arbetsterapeut/ 
+sjukgymnast/fysioterapeut som utifrån bedömning och uppsatta mål planerar åtgärder 
+(under en avgränsad tidsperiod). Åtgärderna kan utföras i all kommunal verksamhet av 
+annan vårdpersonal efter instruktion eller delegering. Arbetsterapeut och/eller 
+sjukgymnast/fysioterapeut ansvarar för att följa upp och utvärdera resultatet. När målet 
+är uppnått tas ställning till ev fortsatt rehabiliteringsperiod med ny målsättning 
+alternativt om insatsen ska övergå till vardagsrehabilitering eller egenvård. Planeringen 
+av specifik rehabilitering och habilitering ska samordnas när behov finns.  
+14. HJÄLPMEDEL 
+Medicintekniska produkter (MTP) omfattar en mängd olika produkter som medicinska 
+behandlingshjälpmedel och hjälpmedel för personer med funktionsnedsättning.  
+Individuellt utprovade hjälpmedel liksom arbetstekniska hjälpmedel hanteras som MTP.  
+ 
+Enligt lagen klassificeras en produkt som medicinteknisk (MTP) i de fall tillverkaren 
+angivit ett uttalat medicinskt syfte där produkten ska användas, separat eller i 
+kombination med en annan produkt, för att hos vårdtagaren enbart eller i huvudsak;  
+23
+          
+       
+ 
+ 
+Sid 9 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+• 
+påvisa, förebygga, behandla och lindra sjukdom  
+• 
+påvisa, övervaka, behandla, lindra eller kompensera en skada eller ett 
+funktionshinder  
+• 
+undersöka, ändra eller ersätta anatomi eller en fysiologisk process 
+ 
+Kommunens ansvar  
+ 
+Ordinärt boende  
+Förskrivning av hjälpmedel till personer i ordinärt boende där hemmiljön saknar 
+betydelse.  
+ 
+Särskilt boende  
+Kommunerna ansvarar för hjälpmedel i särskilda boenden. 
+Verkställighet: Hälso- och sjukvårdspersonalen ansvarar för att arbeta enligt gällande 
+riktlinjer och rutiner för medicintekniska produkter. Arbetsterapeut och sjukgymnast/ 
+fysioterapeut ansvarar för förskrivning av individuella hjälpmedel samt för arbets-
+tekniska hjälpmedel. Sjuksköterska med förskrivningsrätt har ansvaret för förskrivning av 
+vissa individuellt utprovade hjälpmedel. 
+Förskrivningsprocessen följs vid förskrivning av hjälpmedel. 
+ 
+MDR  
+MDR är en EU-förordning som sedan 2021 reglerar all hantering av medicintekniska 
+produkter och ersätter tidigare svenska föreskrifter inom området. MDR tydliggör 
+samtliga aktörers roller, ansvar och skyldigheter i leverantörskedjan och omfattar både 
+fysiska och elektroniska produkter/programvaror där syftet med användandet 
+överensstämmer med MDR. 
+ 
+Det åligger alla vårdgivare att säkerställa rutiner och arbetssätt så att medicintekniska 
+produkter som förskrivits, lämnats ut eller tillförts patienter/brukare kan spåras.  
+(2 kap. § 7, HSLF-FS 2021:52).  
+ 
+Verkställighet: 
+Kommunens förskrivare är en del i distributörsledet och ska: 
+• 
+hantera produkter i enlighet med leverantörens anvisningar inom det tänkta 
+användningsområdet, ej föreslå andra användningsområden 
+• 
+informera om risker med produkten  
+• 
+inte göra ändringar på produkten utan tillverkarens godkännande 
+• 
+rapportera avvikelser om något händer där hjälpmedel varit inblandat 
+• 
+(säkerställa spårbarhet genom att hjälpmedel finns registrerade i Websesam) 
+ 
+ 
+24
+          
+       
+ 
+ 
+Sid 10 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+15. ARBETSTEKNISKA HJÄLPMEDEL  
+Arbetstekniska är sådana hjälpmedel som behövs för att underlätta personalens arbete 
+med patienter. Arbetsgivaren ansvarar för dessa hjälpmedel samt att berörd personal har 
+kompetens att hantera dessa korrekt. Varje enhetschef har en skyldighet att säkerställa 
+en god arbetsmiljö för sina medarbetare. Legitimerad arbetsterapeut eller 
+sjukgymnast/fysioterapeut är behjälpliga vid införskaffandet. 
+16. BASAL HYGIEN 
+All personal inom kommunens vård- och omsorgsverksamhet ska följa basala 
+hygienföreskrifter och klädregler för att minska smittspridning.  
+Verkställighet: Enhetens enhetschef ansvarar för att personal följer basala 
+hygienföreskrifter. Vid smittsamma sjukdomar, t ex vinterkräksjuka eller blodsmitta, 
+ansvarar tjänstgörande sjuksköterska för information angående utökade 
+hygienföreskrifter. Patienter som genomgår cytostatikabehandling omfattas av speciella 
+föreskrifter, som initieras av tjänstgörande sjuksköterska. All personal ska årligen 
+genomgå en webbaserad utbildning inom basal hygien – detta ansvarar enhetens 
+enhetschef för. Kontinuerlig uppföljning av följsamhet sker via PPM-mätning 
+17. MUNHÄLSA 
+En person, som har stort och långvarigt behov av omsorg eller omfattas av LSS, har rätt 
+att bli erbjuden uppsökande tandvård. Omvårdnadsbehovet ska vara längre än 6 mån 
+samt innebära omvårdnad minst 3 gånger/dag. En gång/år har dessa personer rätt att få 
+munhälsobedömning gjord av tandvården. Stort omvårdnadsbehov berättigar också till N-
+kort, som ger rätt till nödvändig tandvård enligt hälso- och sjukvårdstaxan. 
+Verkställighet: Erbjudande om uppsökande tandvård lämnas till patient och/eller 
+anhöriga av biståndshandläggare till dem som har hemtjänst och av ansvarig 
+sjuksköterska på särskilt boende eller i hemsjukvården. Detsamma gäller för utfärdande 
+av N-kortet. MAS ansvarar för att statistikuppgifter gällande uppsökande tandvård samlas 
+in och skickas till tandvårdens kansli. 
+18. NUTRITION  
+Det åligger hälso- och sjukvårdspersonal att patienterna upprätthåller en god 
+nutritionsstatus. Det ska finnas en individuell dokumenterad vårdplan för alla patienter 
+som löper risk att utveckla undernäring och som är eller har varit undernärda. Planen ska 
+innehålla dokumentation av vilka förebyggande åtgärder som är ordinerade samt när 
+uppföljning ska ske. 
+Verkställighet: Riskbedömningar görs enligt Senior alert på patienter över 65 år i 
+särskilda boenden, gruppboenden i LSS och i ordinärt boende med hemsjukvård.  
+25
+          
+       
+ 
+ 
+Sid 11 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+Under teamträff där alla professioner är medverkande genomarbetas en vårdplan för 
+nutrition på de patienter som uppvisar en risk för malnutrition via Senior alert. 
+Brukare i ordinärt boende utan beviljade hemsjukvårdsinsatser ansvarar respektive 
+vårdcentral för. 
+19. TRYCKSÅR 
+Det åligger hälso- och sjukvårdspersonal att förebygga trycksår. Det ska finnas en 
+individuell dokumenterad vårdplan för alla patienter som löper risk att utveckla trycksår 
+och som har eller har haft trycksår. Planen ska innehålla dokumentation av vilka 
+tryckavlastande hjälpmedel som ordineras för den enskilda patienten, hur patientens 
+riskfaktorer ska korrigeras samt när uppföljning ska ske. 
+Verkställighet: Riskbedömningar görs enligt Senior alert på patienter över 65 år i 
+särskilda boenden, gruppboenden i LSS och i ordinärt boende med hemsjukvård.  
+Under teamträff där alla professioner är medverkande genomarbetas en vårdplan för risk 
+för trycksår på de patienter som uppvisar en risk för trycksår via Senior alert. 
+Brukare i ordinärt boende utan beviljade hemsjukvårdsinsatser ansvarar respektive 
+vårdcentral för. 
+20. FALL 
+Det åligger hälso- och sjukvårdspersonal att förebygga fall. Det ska finnas en individuell 
+dokumenterad vårdplan för alla patienter som löper risk för fall. Planen ska innehålla 
+dokumentation av vilka åtgärder som ordineras för den enskilda patienten, hur patientens 
+riskfaktorer ska korrigeras samt när uppföljning ska ske. 
+Verkställighet: Riskbedömningar görs enligt Senior alert på patienter över 65 år i 
+särskilda boenden, gruppboenden i LSS och i ordinärt boende med hemsjukvård.  
+Under teamträff där alla professioner är medverkande genomarbetas en vårdplan för risk 
+för trycksår på de patienter som uppvisar en risk för trycksår via Senior alert.  
+Brukare i ordinärt boende utan beviljade hemsjukvårdsinsatser ansvarar respektive 
+vårdcentral för. 
+21. VÅRD I LIVETS SLUT 
+Vård i livets slut är ett prioriterat område och patienterna får samma vård av hälso- och 
+sjukvårdspersonal oavsett om de har palliativ diagnos eller ej. Bedömningen att patienten 
+är i livets slut görs av ansvarig läkare varpå fastställda rutiner för hälso- och 
+sjukvårdpersonal initieras. 
+26
+          
+       
+ 
+ 
+Sid 12 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+Verkställighet: Hälso- och sjukvårdpersonal ansvarar tillsammans med respektive 
+enhetschef för att rutiner och gällande föreskrifter följs av all personal. I samband med att 
+patienten bedöms vara i livets slutskede/sen fas ordinerar legitimerad sjuksköterska 
+palliativt vak till patienten dygnet runt och följs upp enligt rutin. 
+22. KVALITETSREGISTER 
+Registrering i nationella kvalitetsregister ingår i verksamheternas systematiska 
+kvalitetsarbete.  
+Detta innebär att fortlöpande bedöma och analysera risker för att få kunskap om vilka 
+åtgärder som ska vidtas för att undanröja risker för vårdrelaterade problem och skador, 
+undvika negativa händelser och därmed kvalitetssäkra den kommunala hälso- och 
+sjukvården.  
+ 
+Verkställighet: De kvalitetsregister som i dagsläget är aktuella i Sölvesborgs kommun är: 
+• 
+Senior alert inklusive ROAG; kvalitetsregister för att förebygga fall, trycksår, 
+undernäring, munhälsa. 
+• 
+Palliativregistret; kvalitetsregister för att förbättra vården i livets slut. 
+• 
+BPSD (beteendemässiga och psykiska symtom vid demenssjukdom); 
+kvalitetsregister för att förbättra omvårdnaden av patienter med demenssjukdom 
+och således öka livskvalitén. 
+• 
+SweDem inom både ordinärt boende och särskilt boende. 
+• 
+MittVaccin. 
+23. AVVIKELSEHANTERING 
+Med avvikelse avses en inte förväntad händelse som medfört eller skulle medföra risk 
+eller skada för patienten. Både baspersonal och legitimerad personal är skyldiga att 
+anmäla avvikelser samt enligt lex Maria. Exempel på avvikelser är fall, läkemedel, 
+bristande informationsöverföring, vård och behandling. 
+Verkställighet: Den som upptäcker avvikelsen dokumenterar händelsen i Lifecare HSL 
+avvikelsesystem enligt rutin. Medicinskt ansvarig sjuksköterska tar sedan ställning till om 
+det ska bli en anmälan enligt lex Maria.  
+24. SAMVERKAN VID UTSKRIVNING 
+För alla patienter inom kommunal hälso- och sjukvård ska individuell hälsoplan upprättas. 
+Utförs av legitimerad personal i samråd med patient/närstående, för att säkerställa att 
+patientens behov tillgodoses. Vid planering av insatser ifrån flera olika huvudmän/ 
+instanser ska en samordnad individuell plan (SIP) initieras där respektive huvudmans 
+ansvar tydligt framgår. Efter en geriatrisk riskbedömning ska läkarna enligt rutin göra en 
+avancerad medicinsk plan (AMP) hos de patienter som uppfyller kriterierna. 
+27
+          
+       
+ 
+ 
+Sid 13 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+Verkställighet: Individuell hälsoplan dokumenteras i verksamhetssystemet Lifecare HSL 
+enligt gällande rutin. AMP dokumenteras i regionens journalsystem och kopia lämnas till 
+kommunens sjuksköterska som scannar in dokumentet i Lifecare HSL. I samband med 
+inläggning på sjukhus används Prator, ett IT-system för informationsöverföring mellan 
+olika vårdgivare. Detta gäller de patienter som lämnat samtycke och som omfattas av 
+kommunal hälso- och sjukvård oavsett boendeformen.  
+25. UTOMLÄNSPATIENTER 
+Varje kommun ansvarar för att erbjuda patienter från andra län hemsjukvård under deras 
+vistelse i kommunen. 
+ 
+Verkställighet: Hemkommunen ska skicka en beställning via e-tjänst enligt rutin. 
+Kommunens debitering ska ske till den hemregion eller hemkommun som har ansvaret för 
+hemsjukvård av patienten och ska ske enligt gällande taxa. Detsamma gäller mellan 
+Blekinges kommuner. 
+26. PRIVATA AKTÖRER ENLIGT LOV 
+Kommunens hälso- och sjukvård ansvarar inte för utförandet av sjukvården hos privata 
+aktörer. Se rutin. 
+ 
+Verkställighet: Det privata boendets har egen hälso- och sjukvårdspersonal. Vid 
+medboende där tröskelprincipen inte kan efterlevas finns en överenskommelse där 
+kommunen köper denna tjänst av privat aktör. Kostnad för hjälpmedel belastar den 
+privata aktören.  
+27. STYRDOKUMENT 
+Ledningssystem för systematiskt kvalitetsarbete (SOSFS 2011:9) 
+ 
+Hälso- och sjukvårdslagen (1982:763) 
+Patientsäkerhetslagen (SFS 2010:659) 
+Patientdatalagen (SFS 2008:355) 
+Lagen om medicintekniska produkter (SFS 1993:584) 
+ 
+Socialstyrelsens föreskrifter om användning av medicintekniska produkter i hälso- och 
+sjukvården (SOFS 2008:1) 
+Offentlighets- och sekretesslag (SFS 2009: 400) 
+28
+          
+       
+ 
+ 
+Sid 14 (14) 
+ 
+ 
+Informationsklass: 1- Intern
+Socialstyrelsens föreskrifter och allmänna råd om förebyggande av och behandling vid 
+undernäring (SOSFS 2014:10) 
+ 
+Socialstyrelsens föreskrifter om basal hygien inom hälso- och sjukvården (SOSFS 
+2007:19) 
+Socialstyrelsens föreskrifter och allmänna råd om läkemedelshantering i hälso- och 
+sjukvård (SOSFS 2000:1) 
+ 
+Ändring i föreskrifterna och allmänna råden SOSFS 2000:1 om läkemedelshantering i 
+hälso- och sjukvården (SOSFS 2009:14 samt 2012:9) 
+ 
+Delegering av arbetsuppgifter inom hälso- och sjukvård och tandvård (SOSFS 1997:14) 
+ 
+Bedömning av om en hälso- och sjukvårdsåtgärd kan utföras som egenvård (SOSFS 
+2009:6) 
+Patientlagen (2014:821) 
+Hemsjukvårdsavtalet (Hemsjukvård i Blekinge - Fördelning av ansvar och arbetsuppgifter 
+mellan Blekinges vårdcentraler, hemsjukvård samt sjukhusets specialiserade vård). 
+ 
+Gränsdragningsdokumentet  
+LOV förfrågningsunderlag, förfrågningsunderlag för valfrihetssystem inom särskilt 
+boende för äldre i Sölvesborgs kommun version 4.0 
+ 
+29
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 104 
+Dnr 2024/106 
+Delegationsordning 2025 
+BESLUT 
+Vård- och omsorgsnämnden beslutar att godkänna delegationsordningen för vård- 
+och omsorgsnämnden att gälla från och med 2025-01-01. 
+__________ 
+Ärendet i korthet 
+Delegationsordning gås igenom varje år och beslutas i nämnden. 
+Bakgrund 
+En årlig genomgång av vård- och omsorgsnämndens delegationsordning har 
+genomförts inför 2025.  
+Föreslagna ändringar är överstrykningar respektive markerade med röd text. 
+Beslutsunderlag 
+VONAU § 82/2024 
+Nämndsekreterare Camilla Erikssons tjänsteskrivelse 2024-11-26 
+Förslag delegationsordning 2025. 
+__________  
+Exp. 
+Svenja Andersén, kvalitetsutvecklare, för inlägg in ledningssystemet 
+ 
+30
+ 
+Informationsklass: 0 - Öppen
+ 
+ 
+ 
+ 
+ 
+ 
+DELEGATIONSORDNING 
+FÖR 
+VÅRD- OCH OMSORGSNÄMNDEN 
+ 
+Gäller från 1 januari 2025 
+31
+ 
+Informationsklass: 0 - Öppen
+SÖLVESBORGS KOMMUN 
+Vård- och omsorgsnämnden 
+Delegationsordning för vård- och omsorgsnämndens verksamhetsområden. 
+Gällande lagstiftning 
+I 6 kapitlet 33-38 §§ kommunallagen finns bestämmelser som gör det möjligt att med vissa inskränkningar delegera en kommunal nämnds 
+beslutanderätt. 
+Således får en nämnd uppdra åt ett utskott, åt en ledamot eller ersättare eller åt en anställd hos kommunen att besluta på nämndens vägnar i 
+ett visst ärende eller en viss grupp av ärenden. 
+I följande slag av ärenden inom vård- och omsorgsnämndens verksamhetsområde får beslutanderätten dock inte delegeras: 
+1. 
+Ärenden som avser verksamhetens mål, inriktning, omfattning och kvalitet. 
+2. Framställningar eller yttranden till kommunfullmäktige liksom yttranden med anledning av att beslut av nämnden i dess helhet eller av 
+kommunfullmäktige har överklagats. 
+3. Ärenden som rör myndighetsutövning mot enskilda, om de är av principiell beskaffenhet eller annars av större vikt. 
+4. Ärenden som väckts genom medborgarförslag och som överlåtits till nämnden. 
+Nämnden uppdrar åt ordföranden och i dennes frånvaro vice ordförande att besluta på nämndens vägnar i ärenden som är så brådskande, att 
+nämndens beslut inte kan avvaktas. 
+Enligt kommunallagen ska beslut som fattats med stöd av delegation anmälas till nämnden i den ordning som nämnden bestämmer. Besluten 
+tillhandahålls vid nämndens nästa sammanträde och i övrigt på omsorgskontoret via nämndsekreterare. Delegationsbesluten anmäls under 
+särskild punkt på dagordningen.  
+En delegation lämnas till en yrkeskategori. För att det inte ska uppstå en situation där det saknas delegat får nämnden utfärda temporära 
+delegationer, t ex vid semester, sjukdom etc. 
+I förteckningen anges lägsta nivån till vilken delegation kan ifrågakomma. Frågor av principiell natur ska i individärenden hänskjutas till 
+arbetsutskottet. 
+Delegation avseende upphandling och beslut angående personal och ekonomiska åtaganden följer kommunstyrelsens delegationsordning. 
+32
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+Socialtjänstlagen, SoL 
+1.1 
+Beslut om att inleda utredning 
+11 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+1.2 
+Beslut om att utredning inte ska 
+inledas eller att inledd utredning 
+ska läggas ner 
+11 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+1.3 
+Beslut om bistånd i form av 
+hemtjänst 
+- 
+Enligt riktlinjer 
+- 
+Utöver riktlinjer 
+ 
+4 kap 1 § SoL 
+ 
+ 
+Biståndshandläggare 
+Enhetschef 
+Besluts-
+förteckning 
+ 
+1.4 
+Beslut om bistånd i form av 
+särskilt boende för service och 
+omvårdnad 
+- 
+Enligt riktlinjer 
+- 
+Utöver riktlinjer 
+4 kap 1 § SoL 
+ 
+ 
+ 
+Biståndshandläggare 
+Enhetschef 
+Besluts-
+förteckning 
+ 
+1.5 
+Beslut med anledning av 
+ansökan enligt 2a kap 8 § SoL 
+om insatser enligt 4 kap 1 § SoL 
+2a kap 9 § SoL 
+4 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+Avser ansökan från boende i annan 
+kommun som  
+önskar flytta hit och har behov av 
+omfattande vård- och omvårdnadsinsatser 
+1.6 
+Beslut om bistånd i form av 
+korttidsplats/växelboende 
+- 
+Enligt riktlinjer 
+- 
+Utöver riktlinjer 
+4 kap 1 § SoL 
+ 
+ 
+Biståndshandläggare 
+Enhetschef 
+Besluts-
+förteckning 
+ 
+1.7 
+Beslut om bistånd i form av 
+dygnet-runt-insatser av andra 
+skäl än vård i livets slutskede 
+4 kap 1 § SoL 
+Enhetschef 
+Besluts-
+förteckning 
+ 
+1.8 
+Beslut om avlösarservice 
+ 
+ 
+ 
+4 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+33
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+Socialtjänstlagen, SoL 
+1.9 
+Beslut om bistånd i form av plats 
+i dagverksamhet på Sunnanbo 
+4 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+1.10 
+Beslut om ledsagarservice 
+4 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+1.11 
+Beslut om bistånd i form av 
+kontaktperson 
+4 kap 1 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+1.12 
+Beslut om nedsättning av eller 
+befrielse från avgift 
+4 kap 2 § SoL 
+Verksamhetschef 
+Myndighetsenheten 
+Besluts-
+förteckning 
+ 
+1.13 
+Beslut om avgift 
+8 kap 2-9 §§ SoL 
+Avgiftshandläggare 
+ 
+ 
+1.14 
+Beslut om köp av plats i annan 
+kommun eller hos annan 
+vårdgivare 
+4 kap 1 § SoL 
+Arbetsutskottet 
+Besluts-
+förteckning 
+ 
+1.15 
+Teckna avtal med vårdgivare 
+ 
+Verksamhetschef 
+Myndighetsenheten 
+ 
+Information till nämnden 
+1.16 
+Beslut om bistånd utöver vad 
+som följer av 4 kap 1 § SoL 
+4 kap 2 § SoL 
+Biståndshandläggare 
+Besluts-
+förteckning 
+ 
+1.17 
+Beslut om framställning om 
+överflyttning av ärende till 
+nämnd i annan kommun 
+2 a kap 10 § SoL 
+Arbetsutskottet 
+Besluts- 
+förteckning 
+ 
+1.18 
+Beslut om mottagande av ärende 
+från annan kommun 
+2 § kap 10 § SoL 
+Arbetsutskottet 
+Besluts-
+förteckning 
+ 
+Överförmyndare, god man 
+Socialtjänst-
+förordningen 
+ 
+1.19 
+Beslut om anmälan till 
+överförmyndaren om behov av 
+god man, förvaltare 
+5 kap 3 § SOF 
+ 
+ 
+Biståndshandläggare/ 
+enhetschef 
+ 
+ 
+1.20 Beslut om anmälan till 
+överförmyndaren om att behov 
+av förvaltare inte längre 
+föreligger 
+5 kap 5 § SOF 
+Biståndshandläggare/ 
+enhetschef 
+ 
+ 
+34
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+Överklaganden, yttranden, underrättelser och anmälningar mm till domstol, åklagarmyndighet och andra myndigheter 
+ 
+ 
+ 
+ 
+ 
+ 
+1.21 
+Beslut om att föra talan i 
+ärenden eller mål vid allmän 
+domstol eller 
+förvaltningsdomstol 
+10 kap 2 § SoL 
+Ordförande 
+Besluts- 
+förteckning 
+ 
+1.22 
+Utseende av ombud att föra 
+nämndens talan samt utfärda 
+fullmakt 
+10 kap 2 § SoL 
+Ordförande 
+Besluts- 
+förteckning 
+ 
+1.23 
+Beslut om omprövning ska ske 
+27 § FL 
+Delegat i 
+ursprungsärendet 
+Besluts- 
+förteckning 
+ 
+1.24 Omprövning av beslut och 
+yttrande i ärenden där 
+ursprungsbeslutet fattats av 
+delegat 
+27 § FL 
+Delegat i 
+ursprungsärendet 
+Besluts- 
+förteckning 
+ 
+1.25 
+Prövning av att överklagande 
+skett i rätt tid och avvisning av 
+överklagande som kommit in för 
+sent 
+27 § 1 st FL 
+Delegat i 
+ursprungsärendet 
+Besluts- 
+förteckning 
+ 
+1.26 
+Överklagande och yrkande om 
+inhibition när förvaltningsrätt 
+eller kammarrätt ändrat 
+nämndens beslut och detta 
+beslut ursprungligen fattats av 
+delegaten samt avgivande av 
+yttrande i SoL-ärenden där 
+ursprungsbeslutet fattats av 
+delegat 
+ 
+ 
+ 
+10 kap 1-2 §§ SoL, 
+3 kap 10 §, 6 kap 
+33 § och 34 § 3 p 
+KL 
+Ordförande 
+Delegat i 
+ursprungsärendet 
+Besluts- 
+förteckning 
+ 
+35
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+Överklaganden, yttranden, underrättelser och anmälningar mm till domstol, åklagarmyndighet och andra myndigheter 
+1.27 
+Överklagande, yrkande om 
+inhibition samt yttrande till 
+förvaltningsrätt och kammarrätt 
+i SoL-ärenden när 
+ursprungsbeslutet fattats av 
+nämnd 
+ 
+10 kap 1-2 §§ SoL, 
+6 kap 36 § KL 
+Ordförande 
+Besluts- 
+förteckning 
+ 
+1.28 
+Avvisande av ombud 
+ 
+9 § FL 
+Arbetsutskottet 
+Besluts- 
+förteckning 
+ 
+1.29 
+Underrättelse till 
+tillsynsmyndighet om 
+missförhållanden i enskild 
+verksamhet 
+ 
+13 kap 5 § SoL 
+Arbetsutskott 
+Besluts- 
+förteckning 
+Vid brådskande ärenden förvaltningschef. 
+1.30 Underrättelse till 
+tillsynsmyndighet om 
+missförhållanden i omsorger för 
+äldre och funktionshindrade i 
+kommunens egen verksamhet 
+(lex Sarah) 
+ 
+14 kap 6 § SoL 
+Förvaltningschef 
+Besluts- 
+förteckning 
+ 
+1.31 
+Upprätta polisanmälan gällande 
+brott inom verksamheten 
+12 kap 10 § SoL 
+och 13 kap 5 § 
+OSL 
+Enhetschef 
+ 
+Brott som begåtts av anställd anmäls till 
+förvaltningschef och till HR-chef för 
+eventuella arbetsrättsliga åtgärder. 
+1.32 
+Behörighet att motta delgivning 
+av domstolsbeslut 
+ 
+SFS 2010:1932 13 
+§ 
+Verksamhetschef 
+ 
+ 
+1.33 
+Beslut om avskrivning av fordran 
+upp till ett halvt basbelopp 
+ 
+SFS 1965:921 9 § 
+Förvaltningschef 
+Besluts- 
+förteckning 
+ 
+36
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+Övrigt 
+1.34 Beslut i ärenden där nämndens 
+beslut ej kan avvaktas 
+ 
+Ordförande 
+Besluts- 
+förteckning 
+ 
+1.35 
+Beslut om bifall eller avslag på 
+begäran om utlämnande av 
+handling ur verksamhetssystem 
+till enskild eller annan myndighet 
+samt uppställande av förbehåll i 
+samband med utlämnande till 
+enskild 
+2 kap 14 § TF, 6 
+kap 2-3 §§ OSL, 
+12 kap OSL, 25 
+och 26 kap 1 § 
+OSL 
+MAS/Enhetschef på 
+berörd enhet 
+ 
+Avslag och delavslag lämnas med 
+besvärshänvisning. Överklagas till 
+kammarrätten 
+1.36 
+Beslut att lämna ut uppgifter ur 
+personregister till statliga 
+myndigheter i forskningssyfte 
+12 kap 6 § SoL 
+Enhetschef på berörd 
+enhet 
+ 
+Uppgiftsskyldighet. Ska lämnas ut om det 
+kan ske utan risk för att den enskilde eller 
+dennes närstående lider men. 
+1.37 
+Beslut om utlämnande av 
+diarieförd handling på begäran 
+6 kap 3 § OSL 
+Nämndsekreterare 
+ 
+Avser utlämnande av hela eller delar av 
+diarieförd handling. 
+1.38 
+Beslut om helt avslag på begäran 
+om utlämnande av diarieförd 
+allmän handling till enskild eller 
+annan myndighet 
+2 kap 14 § TF, 6 
+kap 2-3 §§ OSL 
+och 12 kap OSL 
+Berörd 
+verksamhetschef 
+ 
+Lämnas med besvärshänvisning. 
+Överklagas till kammarrätten 
+1.39 
+Beslut om att ersätta enskild 
+person för egendomsskada vid 
+myndighetsutövning som 
+förorsakats av personal upp till 
+ett belopp av 5 000 kr 
+3 kap 2 § 
+skadeståndslagen 
+Förvaltningschef 
+ 
+ 
+1.40 Beslut om ersättning till 
+kontaktperson (arvode, 
+omkostnadsersättning) enligt 
+SKR:s rekommendationer 
+ 
+Enhetschef 
+ 
+ 
+1.41 
+Beslut om förordnande och 
+entledigande av kontaktperson 
+ 
+ 
+Enhetschef 
+ 
+ 
+37
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+Övrigt 
+1.42 Beslut om inköp 
+- 
+Upp till 1 basbelopp 
+- 
+Mellan 1-5 basbelopp 
+- 
+Över 5 basbelopp 
+ 
+ 
+Enhetschef 
+Verksamhetschef 
+Förvaltningschef 
+ 
+ 
+1.43 Underteckna avtal 
+Beslut i ärende om upphandling 
+av vara eller tjänst när 
+upphandlingens totala värde är 
+mellan 5 och 50 prisbasbelopp 
+ 
+Upphandlingsärende 
+understigande 5 prisbasbelopp 
+ 
+ 
+Förvaltningschef (med 
+rätt till 
+vidaredelegation 
+enligt 7 kap 6 § KL) 
+ 
+ 
+Förvaltningschef 
+ 
+ 
+Anmäls till Ks Au 
+ 
+ 
+Hälso- och sjukvårdslagen 
+1.44 Beslut om anmälan till 
+Inspektionen för vård och 
+omsorg om händelser som har 
+medfört eller hade kunnat 
+medföra allvarlig vårdskada (lex 
+Maria) 
+3 kap 5-6 §§ PL, 
+SFS 2010:659 5 
+§, SOSFS 
+2005:28 5 kap 
+Medicinskt ansvarig 
+sjuksköterska 
+Besluts- 
+förteckning 
+ 
+1.45 Svara för att anhörig underrättas 
+när en patient avlider eller en 
+patients tillstånd försämras 
+allvarligt 
+HSL 
+Tjänstgörande 
+sjuksköterska 
+ 
+ 
+1.46 Svara för att anhörig eller 
+lämplig myndighet underrättas 
+om en patient som lämnar 
+vårdinrättningen är farlig för 
+någon annan eller sig själv 
+HSL 
+Tjänstgörande 
+sjuksköterska 
+ 
+ 
+38
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+Hälso- och sjukvårdslagen 
+1.47 
+Beslut som rör ansvaret för 
+medicinsktekniska produkter i 
+kommunens hälso- och sjukvård 
+SOSFS 2008:1 
+Medicinskt ansvarig 
+sjuksköterska 
+ 
+ 
+1.48 Uppgiftslämnande enligt 
+smittskyddslag till 
+smittskyddsläkare 
+6 kap 10 § 
+smittskyddslagen 
+SFS 2019:362 
+Medicinskt ansvarig 
+sjuksköterska 
+ 
+ 
+ 
+ 
+Lagen om valfrihet, LOV 
+1.49 Rätt att godkänna utförare samt 
+teckna avtal med utförare för 
+LOV 
+8 kap 1-3 §§ LOV 
+Arbetsutskottet 
+Besluts- 
+förteckning 
+ 
+1.50 Rätt att avslå ansökan 
+8 kap 1 § LOV 
+Arbetsutskottet 
+Besluts- 
+förteckning 
+ 
+1.51 
+Beslut att godkänna eller avslå 
+underleverantörer till godkänd 
+leverantör 
+8 kap 1 § LOV 
+Arbetsutskottet 
+Besluts- 
+förteckning 
+ 
+1.52 
+Besluta om ersättning utöver 
+beställd tid 
+LOV 
+Verksamhetschef 
+Myndighetsenheten 
+Besluts- 
+förteckning 
+ 
+1.53 
+Rätt att begära åtgärdsplan vid 
+bristande kvalitet 
+LOV 
+LOV-handläggare 
+Besluts- 
+förteckning 
+ 
+1.54 Rätt att godkänna åtgärdsplan 
+LOV 
+LOV-handläggare 
+Besluts- 
+förteckning 
+ 
+1.55 
+Rätt att besluta om vitesför-
+läggande vid bristande kvalitet 
+LOV 
+Verksamhetschef 
+Myndighetsenheten 
+Besluts- 
+förteckning 
+ 
+1.56 
+Rätt att häva kontrakt med 
+godkänd utförare 
+7 kap 1 § LOV 
+Arbetsutskottet 
+Besluts- 
+förteckning 
+ 
+1.57 
+Rätt att godkänna ny 
+verksamhetsansvarig för 
+godkänd leverantör 
+LOV 
+Enhetschef 
+Myndighetsenheten 
+Besluts- 
+förteckning 
+ 
+39
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+GDPR 
+1.58 
+Beslut att ta ut en avgift eller 
+vägra att tillmötesgå begäran om 
+begäranden är uppenbart 
+ogrundade eller orimliga 
+Art. 12.5 GDPR 
+Berörd 
+verksamhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.59 
+Beslut om tillgång – utlämnande 
+av registerutdrag 
+Art. 15 GDPR 
+Berörd enhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.60 Beslut om den registrerades rätt 
+till rättelse 
+Art. 16 GDPR 
+Berörd enhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.61 
+Beslut om den registrerades rätt 
+till radering 
+ 
+Art. 17 GDPR 
+Berörd 
+verksamhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.62 
+Beslut om den registrerades rätt 
+till begränsning av behandling 
+Art. 18 GDPR 
+Berörd enhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.63 
+Beslut om underrättelse till 
+tredje man om rättelse eller 
+radering av personuppgifter eller 
+begränsning av behandling 
+ 
+Art. 19 GDPR 
+Berörd enhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.64 Beslut om den registrerades rätt 
+till dataportabilitet 
+Art. 20 GDPR 
+Berörd enhetschef 
+ 
+Överföring av personuppgift från en 
+personuppgiftsansvarig till en annan.  
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.65 
+Beslut med anledning av den 
+registrerades rätt att göra 
+invändningar 
+Art. 21 GDPR 
+Berörd 
+verksamhetschef 
+ 
+Överklagas till allmän förvaltningsdomstol 
+enligt 7 kap 2 § lag 2018:218 
+1.66 
+Ingå datadelningsavtal eller 
+liknande inbördes arrangemang 
+mellan två eller flera gemensamt 
+personuppgiftsansvariga 
+ 
+Art. 26 GDPR 
+Förvaltningschef 
+ 
+Överklagandeförbud enligt 7 kap 5 § lag 
+2018:218 
+40
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+GDPR 
+1.67 
+Ingå personuppgiftsbiträdesavtal 
+inklusive instruktioner 
+Art. 28 GDPR 
+Förvaltningschef 
+ 
+Överklagandeförbud enligt 7 kap 5 § lag 
+2018:218 
+1.68 
+Beslut om anmälan av en 
+personuppgiftsincident 
+Art. 33 GDPR 
+Förvaltningschef 
+ 
+Anmälan ska göras till datainspektionen 
+senast 72 timmar efter kännedom om 
+incident. Görs i samråd med 
+dataskyddsombud. 
+Överklagandeförbud enligt 7 kap 5 § lag 
+2018:218 
+1.69 
+Ta ställning till om information 
+ska lämnas om en 
+personuppgiftsincident 
+Art. 34 GDPR 
+Förvaltningschef 
+ 
+Överklagandeförbud enligt 7 kap 5 § lag 
+2018:218 
+1.70 
+Fastställa konsekvensbedömning 
+avseende dataskydd 
+Art. 35 GDPR 
+Förvaltningschef 
+ 
+Görs samråd med dataskyddsombud. 
+Överklagandeförbud enligt 7 kap 5 § lag 
+2018:218 
+1.71 
+Utse dataskyddsombud för 
+nämnden 
+Art. 37 GDPR 
+Förvaltningschef 
+ 
+Överklagandeförbud enligt 7 kap 5 § lag 
+2018:218 
+1.72 
+Fastställa ändamål med 
+behandling av personuppgifter 
+Art. 5b GDPR 
+Dataskyddsredogörare  
+Dokumenteras i registerförteckning 
+1.73 
+Fastställa laglig grund för 
+behandling av personuppgifter 
+ 
+Art. 6 GDPR 
+Dataskyddsredogörare  
+Dokumenteras i registerförteckning 
+1.74 
+Fastställa att behandling av 
+särskilda kategorier av 
+personuppgifter (känsliga) är 
+tillåten enligt något av de 
+undantag som finns i art. 9 GDPR 
+Art. 9 GDPR 
+Dataskyddsredogörare  
+Dokumenteras i registerförteckning 
+1.75 
+Begära att ytterligare 
+information tillhandahålls som är 
+nödvändig för att bekräfta den 
+registrerades identitet 
+Art. 12.6 GDPR 
+Berörd enhetschef 
+ 
+ 
+41
+ 
+Informationsklass: 0 - Öppen
+NR 
+Ärende 
+Lagrum 
+Delegat 
+Anmälan 
+Anmärkning 
+ 
+ 
+ 
+ 
+ 
+ 
+GDPR 
+1.76 
+Föra register över 
+personuppgiftsbehandlingar 
+Art. 30 GDPR 
+Dataskyddsredogörare  
+Nämnden informeras om aktuell 
+förteckning 
+1.77 
+Säkerställa en lämplig 
+säkerhetsnivå i samband med 
+personuppgiftsbehandling 
+Art. 32 GDPR 
+Dataskyddsredogörare  
+ 
+1.78 
+Upprätta anmälan om 
+personuppgiftsincident 
+Art. 33.3-4 GDPR 
+Förvaltningschef 
+ 
+Nämnden informeras om 
+personuppgiftsincidenter 
+1.79 
+Dokumentera 
+personuppgiftsincidenter 
+Art. 33.5 GDPR 
+Dataskyddsredogörare  
+Nämnden informeras om 
+personuppgiftsincidenter 
+1.80 Delta i arbetsgrupp för att göra 
+risk- och konsekvensbedömning 
+Art. 35 GDPR 
+Dataskyddsredogörare  
+ 
+ 
+42
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 105 
+Dnr 2024/107 
+Attestlista 2025 
+BESLUT 
+Vård- och omsorgsnämnden beslutar att fastställa föreslagna beslutsattestanter 
+avseende nämndens budgetmedel och ekonomisk hantering 2025. 
+Förvaltningschefen har rätt att vid behov ändra eller ta bort rätten till 
+beslutsattestering. 
+__________ 
+Ärendet i korthet 
+Attestlista för vård och omsorg har gåtts igenom och reviderats inför 2025. 
+Bakgrund 
+I Sölvesborgs kommuns författningssamling 9.1 står det att ”Varje nämnd svarar 
+för att attestanter och beslutsfattare utses inom sina verksamheter och för att 
+upprätta aktuell förteckning över dessa och deras ersättare”. 
+För att nämnden ska fullfölja sitt ansvar och ha kontroll över att förteckningen 
+stämmer så bör den aktuella förteckningen beslutas inför varje nytt budgetår. 
+Beslutsunderlag 
+VONAU § 83/2024 
+Nämndsekreterare Camilla Erikssons tjänsteskrivelse 2024-11-26. 
+Förslag attestlista 2025 
+__________  
+Exp. 
+Ekonomikontoret 
+43
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 106 
+Dnr 2024/22 
+Kö- och beläggningsstatistik 2024 
+BESLUT 
+Informationen tas till handlingarna. 
+__________ 
+Ärendet i korthet 
+Information av nämndsekreterare Camilla Eriksson angående disponibla 
+platser/lägenheter i särskilda boende, beläggningen, antal sökande samt kostnader 
+för institutionsplacerade och utskrivningsklara under november 2024. 
+Beslutsunderlag 
+Köstatistik november 2024 
+Beläggningsstatistik november 2024 
+__________  
+ 
+44
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 107 
+Dnr 2024/1 
+Anmälan av delegationsbeslut 
+BESLUT 
+Anmälningarna läggs till handlingarna. 
+__________ 
+1.     221 meddelade delegationsbeslut rörande hemtjänst och särskilda  
+        boenden under november 2024.   
+• 
+Biståndshandläggare – 220 bifall och 1 avslag 
+2.  Av Lina Jörnkrans, ordförande meddelade delegationsbeslut gällande 
+vakansprövningar: 
+• 
+Enhetschef. 
+• 
+Avgiftshandläggare. 
+• 
+Omsorgsadministratör. 
+__________  
+ 
+45
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-12-19 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 108 
+Dnr 2024/2 
+Meddelande 
+BESLUT 
+Meddelandena läggs till handlingarna. 
+__________ 
+1. Utdrag ur protokoll från Hälso- och sjukvårdsnämndens sammanträde 
+2024-11-07 gällande epidemiplan för Blekinge, revision 2024. 
+2. Svar på inspektionsmeddelande från resultat av Arbetsmiljöverkets 
+inspektion hemtjänsten. Dnr 2024/45. 
+Bilaga 1 – Introduktion för nyanställd medarbetare – hemtjänsten. 
+Bilaga 2 – Introduktion ny medarbetare – hemtjänsten. 
+Bilaga 3 – Checklista för riskbedömning av arbetsmiljön i det enskilda 
+hemmet – hemtjänsten. 
+3. Svar på inspektionsmeddelande från resultat av Arbetsmiljöverkets 
+inspektion Gerbogården. Dnr 2024/45. 
+4. Information från Arbetsmiljöverket om avslutat inspektionsärende – 
+Gerbogården. Dnr 2024/45. 
+5. Information från Arbetsmiljöverket om att krav åtgärdats – hemtjänsten. 
+Dnr 2024/45. 
+6. Beslut 2024-12-09 från Kammarrätten i Jönköping gällande överklagan av 
+Förvaltningsrätten i Växjös dom från 2024-05-27 med avslag på ansökan 
+om utökad avlösning i hemmet. Kammarrätten meddelar inte 
+prövningstillstånd. Dnr 2023/110.  
+7. Beslut 2024-12-03 från Inspektionen för vård och omsorg om avskrivning 
+av ärende från vidare handläggning. Dnr 2024/70. 
+__________  
+ 
+46

@@ -1,0 +1,50 @@
+# Konfigurationsfil för RAG-pipeline som bearbetar vård- och omsorgsnämndens protokoll.
+# Definierar inställningar för textdelning, embeddings, språkmodell och sökvägar.
+
+chunking:
+  chunk_size: 500                       # Storlek på textchunks (tecken)        
+  chunk_overlap: 150                    # Överlapp mellan chunks (tecken)      
+  separators: ["\n\n", "\n", " ", ""]   # Prioriterade seperatorer för textdelning
+
+embeddings:
+  model_name: "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"   # Modell för att skapa textembeddings
+  device: "cuda"                        # Enhet för embedding-beräkningar (GPU om tillgängligt, annars CPU)
+
+llm:
+  model_name: gemma3:12b-it-qat         # LLM-modell för svarsgenerering
+  temperature: 0.1                      # Slumpmässighet i LLM-svar (0.0 = strikt, 1.0 = fritt)
+  max_tokens: 500                       # Max antal tokens i genererat svar
+
+rag:
+  top_k: 8                              # Antal dokument att hämta vid vektorsökning
+  system_prompt: |                      # Systemprompt som styr LLM:s svarsbeteende
+    Du är en expert på vård- och omsorgsnämndens protokoll. Svara alltid grundligt och detaljerat baserat på den information du får baserat på kontexten. Fokusera på frågans ämne och, om angivet, datum. Om svaret inte finns i kontexten, säg "Det vet jag inte."
+    Om frågan gäller "ärenden" eller "ärendelista", och kontexten innehåller metadata `is_agenda: true`, använd endast den texten – ignorera andra protokollchunkar. Lista ärendena exakt som de står i punktform:
+    - §-nummer: Titel (Diarienummer, Sidnummer)
+    Exempel på ärendelista:
+    - § 11: Patientsäkerhetsberättelse 2024 (2025/6, 4)
+    - § 12: Kvalitetsberättelse 2024 (2025/15, 5)
+    ...
+    Om frågan gäller "deltagare" eller "närvarolista", och kontexten innehåller metadata `is_frontpage: true`, använd endast den texten för att lista deltagare som de står i punktform.
+    Exempel på deltagarlista:
+    Beslutande ledamöter
+    Lina Jörnkrans S 
+    Anders Fransson M 
+    ...
+    Ej beslutande ersättare 
+    Faire Baubec S 
+    Mathias Andersson M 
+    ...
+    Övriga närvarande 
+    André Jönsson, förvaltningschef 
+    Camilla Ryrstedt, verksamhetschef hemtjänst och myndighetsenheten 
+
+    För andra frågor, använd punktform för listor och inkludera alla relevanta detaljer. Prioritera information som matchar frågans nyckelord.
+    Undvik redundans, vaga svar eller att avfärda korrekt information. För frågor utan specifikt datum, överväg alla relevanta protokoll.
+
+# Sökvägar till olika mappar i projektet
+paths:
+  data_dir: "data"                      # Mapp för förbehandlade textfiler
+  chroma_db_dir: "data/chroma_db"       # Mapp för Chroma-vektordatabas
+  documents_dir: "documents"            # Mapp för ursprungliga PDF-protokoll
+

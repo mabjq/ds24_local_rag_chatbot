@@ -1,0 +1,613 @@
+[
+  {
+    "question": "Vad beslutades om verksamhetsplanen 2025-2027 den 30 januari 2025?",
+    "expected_answer": "Vård- och omsorgsnämnden godkänner verksamhetsplan 2025-2027.",
+    "generated_answer": "Den 30 januari 2025 beslutade Vård- och omsorgsnämnden att godkänna verksamhetsplan 2025-2027. (VON § 3, Dnr 2025/7)",
+    "score": 1.0,
+    "protocol": "250130.txt",
+    "category": "Beslut",
+    "documents": [
+      {
+        "filename": "Protokoll 240425.txt",
+        "date": "240425",
+        "is_agenda": false,
+        "chunk_index": 74,
+        "is_frontpage": false
+      },
+      {
+        "is_frontpage": false,
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "date": "240229",
+        "chunk_index": 491
+      },
+      {
+        "is_frontpage": false,
+        "filename": "Protokoll 241031.txt",
+        "date": "241031",
+        "is_agenda": false,
+        "chunk_index": 12
+      },
+      {
+        "chunk_index": 9,
+        "is_frontpage": false,
+        "filename": "Protokoll 250130.txt",
+        "is_agenda": false,
+        "date": "250130"
+      },
+      {
+        "filename": "Protokoll 250227.txt",
+        "chunk_index": 14,
+        "is_agenda": false,
+        "is_frontpage": false,
+        "date": "250227"
+      },
+      {
+        "is_agenda": false,
+        "filename": "Protokoll 250130.txt",
+        "chunk_index": 8,
+        "date": "250130",
+        "is_frontpage": false
+      },
+      {
+        "filename": "Protokoll 250327.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "chunk_index": 8,
+        "date": "250327"
+      },
+      {
+        "is_agenda": false,
+        "filename": "Protokoll 241031.txt",
+        "date": "241031",
+        "is_frontpage": false,
+        "chunk_index": 101
+      }
+    ]
+  },
+  {
+    "question": "Vilka ärenden behandlades den 27 februari 2025?",
+    "expected_answer": "Den 27 februari 2025 behandlades ärenden om patientsäkerhetsberättelse 2024, kvalitetsberättelse 2024, bokslut med verksamhetsberättelser 2024, ekonomi- och verksamhetsinformation 2025, standardhöjande åtgärder på särskilt boende, intern kontrollplan 2025, anmälan av delegationsbeslut, meddelanden, och övriga frågor.",
+    "generated_answer": "- § 11: Patientsäkerhetsberättelse 2024 (2025/6, 4)\n- § 12: Kvalitetsberättelse 2024 (2025/15, 5)\n- § 13: Bokslut med verksamhetsberättelser 2024 (2025/14, 6)\n- § 14: Ekonomi- och verksamhetsinformation 2025 (2025/4, 7)\n- § 15: Standardhöjande åtgärder på särskilt boende (2024/111, 8)\n- § 16: Intern kontrollplan 2025 (2024/98, 9 - 10)\n- § 17: Kö- och beläggningsstatistik 2025 (2025/5, 11)\n- § 18: Anmälan av delegationsbeslut (2025/1, 12)\n- § 19: Meddelanden (2025/2, 13)\n- § 20: Övriga frågor (2025/3, 14)",
+    "score": 1.0,
+    "protocol": "250227.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "date": "250227",
+        "chunk_index": -1,
+        "is_agenda": true,
+        "is_frontpage": false,
+        "filename": "Protokoll 250227.txt"
+      }
+    ]
+  },
+  {
+    "question": "Vilka fick kvalitetspriset i år?",
+    "expected_answer": "Hemgångsteamet fick kvalitetspriset 2024.",
+    "generated_answer": "Hemtångsteamet fick kvalitetspriset för 2024.",
+    "score": 1.0,
+    "protocol": "250327.txt",
+    "category": "Ämne",
+    "documents": [
+      {
+        "chunk_index": 634,
+        "filename": "Protokoll 240229.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "date": "240229"
+      },
+      {
+        "is_agenda": false,
+        "chunk_index": 12,
+        "filename": "Protokoll 250327.txt",
+        "is_frontpage": false,
+        "date": "250327"
+      },
+      {
+        "date": "240229",
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "chunk_index": 518,
+        "is_frontpage": false
+      },
+      {
+        "is_frontpage": false,
+        "chunk_index": 638,
+        "is_agenda": false,
+        "filename": "Protokoll 240229.txt",
+        "date": "240229"
+      },
+      {
+        "chunk_index": 631,
+        "date": "240229",
+        "is_agenda": false,
+        "filename": "Protokoll 240229.txt",
+        "is_frontpage": false
+      },
+      {
+        "is_frontpage": false,
+        "is_agenda": false,
+        "chunk_index": 91,
+        "filename": "Protokoll 240229.txt",
+        "date": "240229"
+      },
+      {
+        "chunk_index": 15,
+        "filename": "Protokoll 250327.txt",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "date": "250327"
+      },
+      {
+        "is_frontpage": false,
+        "chunk_index": 490,
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "date": "240229"
+      }
+    ]
+  },
+  {
+    "question": "Vad beslutades om rambudget 2025?",
+    "expected_answer": "Nämnden godkänner äskande om ekonomisk ram och investeringsbudget för 2025, och flerårsplan 2026-2028, samt lämnar ärendet till kommunstyrelsen för vidare bedömning.",
+    "generated_answer": "Vård- och omsorgsnämnden beslutar att godkänna den föreslagna drifts- och investeringsbudgeten med mål och indikatorer för vård- och omsorgsnämnden för 2025 och att tillställa denna kommunfullmäktige för fastställande.",
+    "score": 1.0,
+    "protocol": "240523.txt",
+    "category": "Beslut",
+    "documents": [
+      {
+        "chunk_index": 19,
+        "date": "241031",
+        "is_frontpage": false,
+        "filename": "Protokoll 241031.txt",
+        "is_agenda": false
+      },
+      {
+        "chunk_index": 12,
+        "is_frontpage": false,
+        "date": "241031",
+        "filename": "Protokoll 241031.txt",
+        "is_agenda": false
+      },
+      {
+        "date": "240523",
+        "is_agenda": false,
+        "filename": "Protokoll 240523.txt",
+        "is_frontpage": false,
+        "chunk_index": 16
+      },
+      {
+        "date": "240523",
+        "filename": "Protokoll 240523.txt",
+        "chunk_index": 13,
+        "is_agenda": false,
+        "is_frontpage": false
+      },
+      {
+        "is_frontpage": false,
+        "filename": "Protokoll 241031.txt",
+        "date": "241031",
+        "is_agenda": false,
+        "chunk_index": 20
+      },
+      {
+        "chunk_index": 4,
+        "is_agenda": false,
+        "date": "241003",
+        "filename": "Protokoll 241003.txt",
+        "is_frontpage": false
+      },
+      {
+        "is_agenda": false,
+        "is_frontpage": false,
+        "chunk_index": 48,
+        "filename": "Protokoll 240425.txt",
+        "date": "240425"
+      },
+      {
+        "is_frontpage": false,
+        "is_agenda": false,
+        "date": "240523",
+        "filename": "Protokoll 240523.txt",
+        "chunk_index": 11
+      }
+    ]
+  },
+  {
+    "question": "Vad är IT-samordnares roll inom förvaltningen?",
+    "expected_answer": "De ansvarar och planerar för befintlig teknik och de system som finns inom förvaltningen. IT-samordnare vägleder, kommunicerar lämpliga lösningar, underhåller systemen och på olika sätt arbetar med förståelsen för tekniken i övrig verksamhet.",
+    "generated_answer": "IT-samordnares roll inom vård- och omsorgsförvaltningen är mångfacetterad:\n\n*   **Ansvar och planering:** De ansvarar och planerar för befintlig teknik och de system som finns inom förvaltningen.\n*   **Vägledning och kommunikation:** De vägleder och kommunicerar lämpliga lösningar.\n*   **Underhåll:** De underhåller systemen.\n*   **Förståelse för tekniken:** De arbetar på olika sätt för att öka förståelsen för tekniken i övrig verksamhet.\n*   **Operativt och strategiskt arbete:** De arbetar både operativt och strategiskt för att säkerställa att verksamheten fungerar utifrån ett IT-perspektiv.\n*   **Fokus på välfärdsteknik och digitalisering:** Det läggs stort fokus på välfärdsteknik och digitalisering i deras arbete.\n",
+    "score": 1.0,
+    "protocol": "240201.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "is_frontpage": false,
+        "date": "250130",
+        "is_agenda": false,
+        "filename": "Protokoll 250130.txt",
+        "chunk_index": 91
+      },
+      {
+        "filename": "Protokoll 240201.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "chunk_index": 130,
+        "date": "240201"
+      },
+      {
+        "filename": "Protokoll 240201.txt",
+        "is_agenda": false,
+        "chunk_index": 131,
+        "is_frontpage": false,
+        "date": "240201"
+      },
+      {
+        "chunk_index": 90,
+        "filename": "Protokoll 250130.txt",
+        "is_frontpage": false,
+        "date": "250130",
+        "is_agenda": false
+      },
+      {
+        "date": "241121",
+        "chunk_index": 31,
+        "is_frontpage": false,
+        "filename": "Protokoll 241121.txt",
+        "is_agenda": false
+      },
+      {
+        "is_agenda": false,
+        "is_frontpage": false,
+        "date": "240425",
+        "chunk_index": 135,
+        "filename": "Protokoll 240425.txt"
+      },
+      {
+        "chunk_index": 494,
+        "is_frontpage": false,
+        "date": "240229",
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false
+      },
+      {
+        "is_agenda": false,
+        "chunk_index": 71,
+        "date": "240229",
+        "is_frontpage": false,
+        "filename": "Protokoll 240229.txt"
+      }
+    ]
+  },
+  {
+    "question": "vilka områden finns för intern kontroll 2024?",
+    "expected_answer": "Tre kontrollområden finns: Kompetensförsörjning, Införande av välfärdsteknik för kommuninvånarna, Införande av digitala arbetssätt för medarbetarna.",
+    "generated_answer": "Enligt protokollen finns följande områden för intern kontroll 2024:\n\n*   Kompetensförsörjning\n*   Införande av välfärdsteknik för kommuninvånarna\n*   Införande av digitala arbetssätt för medarbetarna",
+    "score": 1.0,
+    "protocol": "240229.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "date": "241003",
+        "filename": "Protokoll 241003.txt",
+        "is_agenda": false,
+        "chunk_index": 119,
+        "is_frontpage": false
+      },
+      {
+        "chunk_index": 41,
+        "filename": "Protokoll 241219.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "date": "241219"
+      },
+      {
+        "date": "240201",
+        "is_frontpage": false,
+        "chunk_index": 176,
+        "is_agenda": false,
+        "filename": "Protokoll 240201.txt"
+      },
+      {
+        "chunk_index": 74,
+        "filename": "Protokoll 240425.txt",
+        "date": "240425",
+        "is_agenda": false,
+        "is_frontpage": false
+      },
+      {
+        "filename": "Protokoll 250227.txt",
+        "date": "250227",
+        "chunk_index": 25,
+        "is_agenda": false,
+        "is_frontpage": false
+      },
+      {
+        "filename": "Protokoll 240229.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "chunk_index": 618,
+        "date": "240229"
+      },
+      {
+        "filename": "Protokoll 250227.txt",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "chunk_index": 23,
+        "date": "250227"
+      },
+      {
+        "chunk_index": 491,
+        "is_agenda": false,
+        "is_frontpage": false,
+        "filename": "Protokoll 240229.txt",
+        "date": "240229"
+      }
+    ]
+  },
+  {
+    "question": "Hur har resultatet förändrats vad gäller hygienmätningen sedan förra året?",
+    "expected_answer": "Resultatet för de 4 första stegen, basal hygien, har från förra mätningen minskat till 43 % och för de 4 sista stegen, klädregler, har de ökat till 91 %.",
+    "generated_answer": "Här är en sammanfattning av hur resultatet för hygienmätningen har förändrats sedan förra året, baserat på protokollen:\n\n*   **Basal hygien (8 steg):** Följsamheten har försämrats sedan pandemin. Framförallt har spritning efter och före brukar-nära arbete visat sig bristfälligt.\n*   **Basal hygien (mätning inom särskilt boende):** Följsamheten har sjunkit jämfört med förra året. Värdet för måluppfyllelse är ett sammantaget värde av alla inrapporterade mätningar. På enhetsnivå skiljer sig värdet mellan 10,5 som lägst och 12,75 som högst.\n*   **Klädregler:** Följsamheten har ökat till 91 %.\n*   **Generellt:** År 2022 var utfallet för basal hygien 59 %, medan det 2023 var 77,1 %.\n*   **Senaste mätning (vecka 11 och 12):** Resultatet för de 4 första stegen, basal hygien, har minskat till 43 % och för de 4 sista stegen, klädregler, har de ökat till 91 %.",
+    "score": 1.0,
+    "protocol": "250424.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "is_frontpage": false,
+        "date": "250424",
+        "chunk_index": 9,
+        "is_agenda": false,
+        "filename": "Protokoll 250424.txt"
+      },
+      {
+        "date": "240229",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "filename": "Protokoll 240229.txt",
+        "chunk_index": 401
+      },
+      {
+        "is_agenda": false,
+        "date": "250424",
+        "is_frontpage": false,
+        "filename": "Protokoll 250424.txt",
+        "chunk_index": 10
+      },
+      {
+        "date": "240229",
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "chunk_index": 165
+      },
+      {
+        "filename": "Protokoll 240229.txt",
+        "is_frontpage": false,
+        "date": "240229",
+        "chunk_index": 35,
+        "is_agenda": false
+      },
+      {
+        "chunk_index": 9,
+        "is_frontpage": false,
+        "filename": "Protokoll 241031.txt",
+        "date": "241031",
+        "is_agenda": false
+      },
+      {
+        "date": "240229",
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "chunk_index": 399
+      },
+      {
+        "date": "241003",
+        "chunk_index": 55,
+        "filename": "Protokoll 241003.txt",
+        "is_agenda": false,
+        "is_frontpage": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är kkik och vad innebär det?",
+    "expected_answer": "KKiK står för Kommunens kvalitet i korthet. KKiK-uppgifter lämnas en gång om året till Socialstyrelsen och nyckeltalen används för att rangordna kommuner efter sina resultat.",
+    "generated_answer": "Kommunens kvalitet i korthet (KKiK) är ett nationellt projekt sedan 2006 som omfattar cirka 170 kommuner. Projektet drivs av kommunerna, SKR (Sveriges kommuner och regioner) och RKA (Rådet för främjande av kommunala analyser). KKiK ger en bra lägesbild av kommunen som kan utgöra grund för styrning och utveckling av kommunen. Projektet sammanställer cirka 40 nyckeltal för att redovisa kommunens prestationer inom tre områden: barn och unga, stöd och omsorg samt samhälle och miljö.\n\nFör varje nyckeltal rangordnas alla deltagande kommuner efter sina resultat och de 25 procent högsta resultaten får grön färg.",
+    "score": 1.0,
+    "protocol": "241121.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "chunk_index": 38,
+        "date": "241121",
+        "filename": "Protokoll 241121.txt",
+        "is_frontpage": false,
+        "is_agenda": false
+      },
+      {
+        "filename": "Protokoll 240229.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "date": "240229",
+        "chunk_index": 544
+      },
+      {
+        "is_frontpage": false,
+        "filename": "Protokoll 240425.txt",
+        "date": "240425",
+        "chunk_index": 143,
+        "is_agenda": false
+      },
+      {
+        "is_frontpage": false,
+        "filename": "Protokoll 240229.txt",
+        "date": "240229",
+        "is_agenda": false,
+        "chunk_index": 541
+      },
+      {
+        "date": "240321",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "chunk_index": 14,
+        "filename": "Protokoll 240321.txt"
+      },
+      {
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "chunk_index": 542,
+        "date": "240229"
+      },
+      {
+        "is_frontpage": false,
+        "is_agenda": false,
+        "filename": "Protokoll 240229.txt",
+        "date": "240229",
+        "chunk_index": 636
+      },
+      {
+        "chunk_index": 91,
+        "filename": "Protokoll 240229.txt",
+        "is_agenda": false,
+        "date": "240229",
+        "is_frontpage": false
+      }
+    ]
+  },
+  {
+    "question": "Hur ser demografin ut i Sölvesborg kommande åren?",
+    "expected_answer": "Genomsnittsåldern förväntas stiga från 46 år till 48 år mellan 2022 och 2033. Andelen av befolkningen som är arbetsföra (20-64 år) kommer att minska, samtidigt som antalet personer över 80 år ökar kraftigt.",
+    "generated_answer": "Här är en sammanfattning av den demografiska utvecklingen i Sölvesborg kommande år, baserat på de tillgängliga protokollen:\n\n*   **Äldre befolkning:** Befolkningen i Sölvesborg blir allt äldre.\n*   **Genomsnittsålder:**\n    *   Sverige förväntas öka från 42 till 43 år mellan 2022 och 2033.\n    *   Sölvesborgs kommun förväntas öka från 46 till 48 år under samma period.\n    *   År 2023 är genomsnittsåldern i Sölvesborg 4 år högre än i riket, och 2033 förväntas den vara 5 år äldre.\n*   **Gruppen 80+:** Denna grupp förväntas öka med drygt 500 personer mellan 2022 och 2033.\n*   **Gruppen 95-100 år:** Prognostiseras en ökning på ca 60 % från 45 stycken 2022 till drygt 70 stycken 2023.\n*   **Arbetsföra befolkning:** Den arbetsföra åldersgruppen 19-64 år minskar enligt prognoser nationellt, och en liknande utveckling förutspås i Sölvesborg.\n*   **Försörjningsbörda:** Sölvesborg kommer att få en allt större försörjningsbörda på grund av den förändrade befolkningsstrukturen.\n*   **Befolkning 80+:** Ökar från 1 544 (2025) till 1 871 (2033).",
+    "score": 1.0,
+    "protocol": "250130.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "chunk_index": 162,
+        "filename": "Protokoll 240201.txt",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "date": "240201"
+      },
+      {
+        "is_agenda": false,
+        "date": "250130",
+        "is_frontpage": false,
+        "filename": "Protokoll 250130.txt",
+        "chunk_index": 118
+      },
+      {
+        "date": "240229",
+        "filename": "Protokoll 240229.txt",
+        "chunk_index": 45,
+        "is_frontpage": false,
+        "is_agenda": false
+      },
+      {
+        "is_agenda": false,
+        "is_frontpage": false,
+        "filename": "Protokoll 241003.txt",
+        "date": "241003",
+        "chunk_index": 62
+      },
+      {
+        "filename": "Protokoll 241031.txt",
+        "is_frontpage": false,
+        "date": "241031",
+        "chunk_index": 49,
+        "is_agenda": false
+      },
+      {
+        "chunk_index": 160,
+        "filename": "Protokoll 240201.txt",
+        "date": "240201",
+        "is_agenda": false,
+        "is_frontpage": false
+      },
+      {
+        "is_agenda": false,
+        "date": "240229",
+        "is_frontpage": false,
+        "filename": "Protokoll 240229.txt",
+        "chunk_index": 47
+      },
+      {
+        "is_frontpage": false,
+        "chunk_index": 161,
+        "filename": "Protokoll 240201.txt",
+        "date": "240201",
+        "is_agenda": false
+      }
+    ]
+  },
+  {
+    "question": "Vad är förvaltningens svar på motionen om att Sölvesborgs kommun blir testkommun för kommunala läkare?",
+    "expected_answer": "Att fortsätta arbeta med och eventuellt öka antalet personliga delegeringar och behålla regelverket som det är.",
+    "generated_answer": "Förvaltningens bedömning är att alternativet \"fortsätta arbeta med och eventuellt öka antalet personliga delegeringar och behålla regelverket som det är\" är det mest fördelaktiga.\n\nHär är några ytterligare punkter som framgår av protokollen:\n\n*   **Bakgrund:** Motionen gällande att \"Sölvesborgs kommun blir testkommun för kommunala läkare\" har inkommit till kommunfullmäktige och har sänts för yttrande till vård- och omsorgsnämnden med svar senast 2025-01-15.\n*   **Läkarsamverkan:** Läkarsamverkan har varit ett fokusområde då det uppvisat brister.\n*   **Vårdcentralen Markgatan:** Vårdcentralen Markgatan har lyckosamma rekryteringar och valt att dra ner på samarbetet med regionens läkarbil för att med egna läkare stötta upp kommunen.\n*   **Kostnader:** Kostnader för vidareutbildningar, tillgång till patientdata och vikarier är något annat än vad kommunen är vana vid att hantera.",
+    "score": 1.0,
+    "protocol": "241219.txt",
+    "category": "Sammanfattning",
+    "documents": [
+      {
+        "date": "241219",
+        "filename": "Protokoll 241219.txt",
+        "chunk_index": 29,
+        "is_frontpage": false,
+        "is_agenda": false
+      },
+      {
+        "filename": "Protokoll 241219.txt",
+        "is_agenda": false,
+        "chunk_index": 25,
+        "date": "241219",
+        "is_frontpage": false
+      },
+      {
+        "filename": "Protokoll 241219.txt",
+        "date": "241219",
+        "is_agenda": false,
+        "is_frontpage": false,
+        "chunk_index": 28
+      },
+      {
+        "date": "240425",
+        "chunk_index": 59,
+        "is_agenda": false,
+        "filename": "Protokoll 240425.txt",
+        "is_frontpage": false
+      },
+      {
+        "is_frontpage": false,
+        "chunk_index": 376,
+        "filename": "Protokoll 240229.txt",
+        "date": "240229",
+        "is_agenda": false
+      },
+      {
+        "is_agenda": false,
+        "date": "241219",
+        "chunk_index": 38,
+        "filename": "Protokoll 241219.txt",
+        "is_frontpage": false
+      },
+      {
+        "chunk_index": 266,
+        "filename": "Protokoll 240229.txt",
+        "is_frontpage": false,
+        "is_agenda": false,
+        "date": "240229"
+      },
+      {
+        "date": "241219",
+        "filename": "Protokoll 241219.txt",
+        "is_agenda": false,
+        "chunk_index": 60,
+        "is_frontpage": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Vad beslutades om verksamhetsplanen 2025-2027 den 30 januari 2025?",
+        "expected_answer": "Vård- och omsorgsnämnden godkänner verksamhetsplan 2025-2027.",
+        "protocol": "250130.txt",
+        "category": "Beslut"
+    },
+    {
+        "question": "Vilka ärenden behandlades den 27 februari 2025?",
+        "expected_answer": "Den 27 februari 2025 behandlades ärenden om patientsäkerhetsberättelse 2024, kvalitetsberättelse 2024, bokslut med verksamhetsberättelser 2024, ekonomi- och verksamhetsinformation 2025, standardhöjande åtgärder på särskilt boende, intern kontrollplan 2025, anmälan av delegationsbeslut, meddelanden, och övriga frågor.",
+        "protocol": "250227.txt",
+        "category": "Sammanfattning"
+    },
+    {
+        "question": "Vilka fick kvalitetspriset i år?",
+        "expected_answer": "Hemgångsteamet fick kvalitetspriset 2024.",
+        "protocol": "250327.txt",
+        "category": "Ämne"
+    },
+    {
+        "question": "Vad beslutades om rambudget 2025?",
+        "expected_answer": "Nämnden godkänner äskande om ekonomisk ram och investeringsbudget för 2025, och flerårsplan 2026-2028, samt lämnar ärendet till kommunstyrelsen för vidare bedömning.",
+        "protocol": "240523.txt",
+        "category": "Beslut"
+    },
+    {
+        "question": "Vad är IT-samordnares roll inom förvaltningen?",
+        "expected_answer": "De ansvarar och planerar för befintlig teknik och de system som finns inom förvaltningen. IT-samordnare vägleder, kommunicerar lämpliga lösningar, underhåller systemen och på olika sätt arbetar med förståelsen för tekniken i övrig verksamhet.",
+        "protocol": "240201.txt",
+        "category": "Sammanfattning"
+    },
+    {
+        "question": "vilka områden finns för intern kontroll 2024?",
+        "expected_answer": "Tre kontrollområden finns: Kompetensförsörjning, Införande av välfärdsteknik för kommuninvånarna, Införande av digitala arbetssätt för medarbetarna.",
+        "protocol": "240229.txt",
+        "category": "Sammanfattning"
+    },
+    {
+        "question": "Hur har resultatet förändrats vad gäller hygienmätningen sedan förra året?",
+        "expected_answer": "Resultatet för de 4 första stegen, basal hygien, har från förra mätningen minskat till 43 % och för de 4 sista stegen, klädregler, har de ökat till 91 %.",
+        "protocol": "250424.txt",
+        "category": "Sammanfattning"
+    },
+    {
+        "question": "Vad är kkik och vad innebär det?",
+        "expected_answer": "KKiK står för Kommunens kvalitet i korthet. KKiK-uppgifter lämnas en gång om året till Socialstyrelsen och nyckeltalen används för att rangordna kommuner efter sina resultat.",
+        "protocol": "241121.txt",
+        "category": "Sammanfattning"
+    },
+    {
+        "question": "Hur ser demografin ut i Sölvesborg kommande åren?",
+        "expected_answer": "Genomsnittsåldern förväntas stiga från 46 år till 48 år mellan 2022 och 2033. Andelen av befolkningen som är arbetsföra (20-64 år) kommer att minska, samtidigt som antalet personer över 80 år ökar kraftigt.",
+        "protocol": "250130.txt",
+        "category": "Sammanfattning"
+    },
+        {
+        "question": "Vad är förvaltningens svar på motionen om att Sölvesborgs kommun blir testkommun för kommunala läkare?",
+        "expected_answer": "Att fortsätta arbeta med och eventuellt öka antalet personliga delegeringar och behålla regelverket som det är.",
+        "protocol": "241219.txt",
+        "category": "Sammanfattning"
+    }
+]

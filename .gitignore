@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.python-version
+.venv/                  
+venv/                   
+env/                    
+
+# DB
+data/chroma_db/              
+
+# Generated files
+*.log
+*.out
+*.err
+
+# IDE
+.vscode/
+.idea/

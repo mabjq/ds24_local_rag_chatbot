@@ -1,0 +1,2347 @@
+ 
+ 
+Informationsklass: 0 - Öppen
+SAMMANTRÄDESPROTOKOLL 
+ 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+Plats och tid 
+Lageråssalen, Sölvesborg, 2024-11-21 kl 15:00-18:55 
+Beslutande ledamöter 
+ 
+Lina Jörnkrans S 
+Anders Fransson M 
+Paul Andersson KD 
+Benny Karlsson SD 
+Jörgen Larsson S 
+Mervi Tillaeus-Andersson KD 
+Anne-Charlotte Fröberg M 
+Percy Persson SD §§ 90-91 (på vakant plats) 
+Stefan Welander SoL §§ 92-96 (i Percy Perssons frånvaro) 
+Viveka Söderdahl V 
+Anna Borgström SD §§ 90-91 
+Raed Shahen S §§ 92-96 (i Anna Borgströms frånvaro) 
+Mona Frigura M 
+ 
+Ej beslutande ersättare 
+Faire Baubec S §§ 90-91 
+Madelene Ekstrand KD §§ 90-91 
+Christel Nilsson S 
+Övriga närvarande 
+Annika Härd, verksamhetschef Timansstenar § 90 
+Suzane Erlandsson, tf regionchef Norlandia § 90 
+Agneta Nilsson, MAS Timansstenar § 90 
+Joakim Vobern, MAS § 90 
+André Jönsson, förvaltningschef 
+Camilla Ryrstedt, verksamhetschef hemtjänst och myndighetsenheten 
+Kate Olsson, verksamhetschef särskilt boende 
+Camilla Eriksson, nämndsekreterare 
+ 
+ 
+ 
+ 
+Justeringsperson 
+Paul Andersson 
+Justeringens plats och tid 
+Digitalt 2024-11-26 
+ 
+Underskrifter 
+ 
+Sekreterare 
+………………………………………………………………… 
+Paragrafer 90-96 
+ 
+Camilla Eriksson 
+ 
+ 
+Ordförande 
+………………………………………………………………… 
+ 
+ 
+Lina Jörnkrans 
+ 
+ 
+Justerare 
+………………………………………………………………… 
+ 
+ 
+Paul Andersson  
+ 
+ 
+ 
+1
+SAMMANTRÄDESPROTOKOLL 
+ 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+ 
+ 
+ 
+ANSLAG/BEVIS 
+Protokollet är justerat. Justeringen har tillkännagivits genom anslag. 
+Organ 
+Vård- och omsorgsnämnden  
+Sammanträdesdatum 
+2024-11-21 
+Datum då anslaget publiceras 
+2024-11-27 
+Datum då anslaget avpubliceras 
+2024-12-19 
+Förvaringsplats för protokollet 
+Vård- och omsorgsnämndens kansli 
+ 
+Underskrift 
+……………………………………………………………………… 
+ 
+ 
+Camilla Eriksson  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+SAMMANTRÄDESPROTOKOLL 
+ 
+ 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+Ärendelista 
+§ 90 
+Redovisning från Timansstenar 
+2024/5 
+4 - 5 
+§ 91 
+Redovisning från Kommunens Kvalitet i Korthet, KKiK 
+2024/102 
+6 - 8 
+§ 92 
+Ekonomi- och verksamhetsinformation 
+2024/11 
+9 
+§ 93 
+Dokumenthanteringsplan och arkivbeskrivning 2025 
+2024/93 
+10 - 27 
+§ 94 
+Kö- och beläggningsstatistik 2024 
+2024/22 
+28 
+§ 95 
+Anmälan av delegationsbeslut 
+2024/1 
+29 
+§ 96 
+Meddelande 
+2024/2 
+30 
+  
+ 
+ 
+ 
+3
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(2) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 90 
+Dnr 2024/5 
+Redovisning från Timansstenar 
+BESLUT 
+Vård- och omsorgsnämnden ger MAS i uppdrag att begära in, granska och på nästa 
+nämnd redovisa dokumentation från både SoL- och HSL-journalerna gällande 
+berörda avvikelser. 
+Kvartalsrapporter ska fortsättningsvis skickas in av Timansstenars 
+verksamhetschef. Den första ska delges nämnden i januari. 
+Frågor om behörigheter i verksamhetssystem ska utredas och IT-samordnare bjuds 
+in till nämnden i december. 
+__________ 
+Ärendet i korthet 
+Annika Härd, verksamhetschef, Suzane Erlandsson, tf regionchef och Agneta 
+Nilsson, MAS redovisar svar på vård- och omsorgsnämndens frågor och begäran 
+om mer information angående granskade avvikelser.  
+Annika Härd började på sin tjänst i september. Det har varit svårigheter för 
+personalen att tillräckligt fort få behörigheter i Lifecare. Detta sköts av vård- och 
+omsorgsförvaltningens IT-samordnare. Förslag har lagts från Annika att de, för att 
+avlasta, kan sköta behörigheterna själva om de får tillgång till detta. Viktigt för 
+patientsäkerheten med direkt tillgång till verksamhetssystem. 
+Annika föreslår att hon sammanställer kvartalsrapporter till nämnden för 
+transparens i verksamheten.  
+Det som har granskats gällande dessa avvikelser är endast HSL-journaler, inte SoL-
+journaler vilket beklagas. 
+Angående utbildningar så ska man vara utbildad undersköterska för att få en 
+tillsvidaretjänst på Timansstenar. Grundkravet för timvikarier är erfarenhet av 
+äldreomsorg och goda referenser. Omvårdnadskonferenser där 
+kompetensutveckling ingår hålls var 6:e vecka. 
+Angående bemanning så är det 0,54 årsarbetare (jämfört med Sölvesborgs 
+kommun som har 0,71 årsarbetare) som är omvårdnadspersonal. Det finns även 
+servicepersonal som är behjälpliga på vårdavdelningarna. Deras huvudsakliga 
+arbetsuppgifter är i kök samt anvisade städområden men det är verksamhetschef 
+som bedömer var de ska hjälpa till beroende på vårdtyngd och behov. Utöver 
+dessa finns en extern aktör som utför lokalvård 2 dagar/vecka samt sjuksköterskor, 
+fysio- och arbetsterapeut, teamledare och verksamhetschef som finns i 
+verksamheten dagligen. 
+4
+SAMMANTRÄDESPROTOKOLL 
+ 
+2(2) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+Samtliga nämndsledamöter är välkomna att göra studiebesök på Timansstenar. 
+Det behöver inte anmälas i förväg. Tips lämnas också om verksamhetens 
+instagramkonto ”norlandia_timansstenar”. 
+Bakgrund 
+Förvaltningschef och verksamhetschef begärde den 6 november, på delegation av 
+vård- och omsorgsnämnden, information gällande granskade avvikelser samt svar 
+på frågor om bemanning och rutiner gällande rapporter enligt lex Sarah. 
+__________  
+Exp. 
+Annika Härd, verksamhetschef 
+Suzande Erlandsson, tf regionchef 
+Agneta Nilsson, MAS 
+André Jönsson, förvaltningschef 
+Joakim Vobern, MAS 
+5
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 91 
+Dnr 2024/102 
+Redovisning från Kommunens Kvalitet i Korthet, KKiK 
+BESLUT 
+Informationen tas till handlingarna. 
+__________ 
+Ärendet i korthet 
+André Jönsson, förvaltningschef redovisar Sölvesborgs resultat gällande stöd och 
+omsorg. För varje nyckeltal rangordnas alla deltagande kommuner efter sina 
+resultat och de 25 procent högsta resultaten får grön färg, de 25 procent lägsta får 
+röd färg och de 50 procent i mitten får gul färg. 
+Bakgrund 
+Rådet för främjande av kommunala analyser (RKA) har på statens och SKRs direktiv 
+uppdraget att stimulera till kvalitetsjämförelser inom kommunsektorn. 
+Kommunens Kvalitet i Korthet (KKiK) är ett projekt som har pågått sedan 2006. 
+Nyckeltalen i undersökningen är framtagna i nätverk och idag omfattar projektet 
+nästan samtliga kommuner. 
+Beslutsunderlag 
+Presentation av Sölvesborgs resultat 2024. 
+__________  
+ 
+6
+Informationsklass: 0 - Öppen
+Vad är KKIK - Kommunens kvalitet i korthet?
+2024-11-22
+solvesborg.se
+Sida 1
+Ø Nationellt projekt som omfattar ca 170 kommuner och sammanställer cirka 40 nyckeltal 
+för att redovisa kommunens prestationer inom tre områden: barn och unga, stöd och 
+omsorg och samhälle och miljö. Det är frivilligt att delta.
+Ø Siffrorna hämtas från Kolada, en databas för kommuner och regioner med tillgång till ca 
+6000 nyckeltal lämpade för jämförelse. Inmatning görs årligen.
+     
+        www.kolada.se
+7
+Informationsklass: 0 - Öppen
+Resultat 2024
+2024-11-22
+solvesborg.se
+Sida 2
+För varje nyckeltal rangordnas alla kommuner/regioner efter sina resultat och jämförs med andra.
+De bästa resultaten får grön färg, de sämsta får röd färg och de i mitten får gul färg.
+Redovisas separat i 
+brukarundersökningen
+Redovisas separat i 
+brukarundersökningen
+Mäter verksamheten 
+månadsvis (indikator)
+Ej rapporterat för 2024
+Kolada uppdaterar inte 
+detta nyckeltal efter 2023
+Siffror för 2024 är tillgängliga 
+först 2025 (bokslut)
+Kommentar kvalitetsutvecklare
+8
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 92 
+Dnr 2024/11 
+Ekonomi- och verksamhetsinformation 
+BESLUT 
+Informationen tas till handlingarna. 
+__________ 
+Ärendet i korthet 
+Information om inkomna lex Sarah-rapporter. 
+Sedan förra nämnden, den 31 oktober 2024 har inga rapporter inkommit. 
+Förvaltningschef och verksamhetschefer redovisar siffror, prognoser och vad som 
+är på gång för respektive verksamhet. 
+Beslutsunderlag 
+Månadsuppföljning oktober 2024 
+ 
+__________  
+ 
+9
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 93 
+Dnr 2024/93 
+Dokumenthanteringsplan och arkivbeskrivning 2025 
+BESLUT 
+Vård- och omsorgsnämnden beslutar att godkänna reviderad arkivbeskrivning och 
+dokumenthanteringsplan för vård- och omsorgsnämnden att gälla från och med 
+2025-01-01. 
+__________ 
+Ärendet i korthet 
+Enligt riktlinjer och anvisningar för arkivansvariga och arkivredogörare ska en 
+arkivbeskrivning upprättas för verksamheten och revideras regelbundet. 
+Dokumenthanteringsplanen gås igenom varje år och beslutas i nämnden. 
+Bakgrund 
+Enligt riktlinjer och anvisningar för arkivansvariga och arkivredogörare ska en 
+arkivbeskrivning upprättas för verksamheten och revideras regelbundet. 
+Dokumenthanteringsplanen gås igenom varje år och beslutas i nämnden. 
+Beslutsunderlag 
+Nämndsekreterare Camilla Erikssons tjänsteskrivelse 2024-10-29 
+Förslag - Arkivbeskrivning 2025 
+Förslag - Dokumenthanteringsplan 2025 
+__________  
+Exp. 
+Svenja Andersén, kvalitetsutvecklare, för inlägg i ledningssystemet 
+Sanna Svensson, nämndsekreterare, för inlägg i den gemensamma 
+dokumenthanteringsplanen 
+ 
+10
+Sida 
+1(4) 
+ 
+ 
+Arkivbeskrivning 
+Detta dokument är upprättat för att uppfylla myndighetens skyldigheter 
+enligt 4 kap 2 § offentlighets- och sekretesslag (2009:400) om beskrivning 
+av myndighetens allmänna handlingar samt 6 § 2 p arkivlagen om 
+arkivbeskrivning. 
+En beskrivning ska upprättas för varje myndighet (nämnd). Det är viktigt att 
+beskrivningen hålls uppdaterad med aktuell organisation och verksamma 
+kontaktpersoner. 
+ 
+Myndighetens organisation och verksamhet 
+Myndighetens namn: Vård- och omsorgsnämnden 
+Myndighetens organisation och tillkomstår samt ev. föregångare: 
+Sölvesborgs kommun bildades vid kommunreformen 1971 av Sölvesborgs 
+stad samt Mjällby och Gammalstorps landskommuner. Omsorg ingick då i 
+socialnämndens ansvarsområde. 
+Omsorgsnämnden inrättades 1992 och innefattade äldreomsorg, 
+funktionshinderomsorg och hälso- och sjukvård.  
+Från och med den 1 januari 2022 övergick funktionshinderomsorgen till 
+arbete- och välfärdsnämnden. Omsorgsnämnden bytte namn till vård- och 
+omsorgsnämnden. 
+Från och med den 1 april 2024 övergick bemanningsenheten till  
+HR-avdelningen inom kommunledningsförvaltningen. 
+Nämnden består av 11 ordinarie ledamöter och 11 ersättare. Nämnden har en 
+ordförande och två vice ordförande som också utgör nämndens presidium. 
+Det finns ett utskott; vård- och omsorgsnämndens arbetsutskott som 
+består av 5 ledamöter och 3 ersättare. 
+Nämnden har till sin hjälp en administration och förvaltning för 
+verkställande av fattade beslut. 
+ 
+ 
+ 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Datum 
+2024-10-11 
+Dnr 
+2024/93 
+ 
+ 
+ 
+Handläggare 
+Camilla Eriksson, 0456-81 63 32 
+camilla.eriksson@solvesborg.se 
+ 
+  
+ 
+  
+11
+Sölvesborgs kommun 
+Datum 
+2024-10-11 
+Dnr 
+  
+Sida 
+2(4) 
+ 
+ 
+Myndighetens verksamhet och uppdrag: 
+Nämnden ansvarar för kommunens uppgifter inom socialtjänsten rörande 
+äldreomsorg och omsorg för personer med funktionsnedsättning, dock inte 
+enligt lagen om stöd och service till vissa funktionshindrade (LSS) och 
+insatser inom socialpsykiatrin. 
+Nämnden är socialnämnd enligt socialtjänstlagen (2001:453) och andra 
+författningar för ovan beskrivna ansvarsområden och utövar i dessa delar 
+ledningen över socialtjänsten. 
+Nämnden ska se till att verksamheten bedrivs i enlighet med de mål och 
+riktlinjer som kommunfullmäktige har bestämt samt de lagar, förordningar 
+och föreskrifter som gäller för verksamheten.  
+Vård- och omsorgskontoret har ett övergripande ansvar som inrymmer 
+förvaltningens centrala funktioner för ledning, verksamhetsstöd, 
+kvalitetsarbete samt administration inom hemtjänst, särskilt boende och 
+hälso- och sjukvård. 
+Nämndens administration består av postöppning, registrering, kallelser, 
+protokoll, sekreterarskap, ärendehantering, expediering och 
+arvodesrapportering. 
+Förvaltningschefen och verksamhetschefer är föredragande i nämnden för 
+frågor som rör ovanstående samt ansvarar för budget, budgetuppföljning 
+och bokslut. 
+ 
+Viktigare handlingar 
+Handlingar som tillhör myndighetens kärnverksamhet: 
+Förutom protokoll från vård- och omsorgsnämnden ingår även registrerade 
+handlingar i verksamheten samt övriga handlingar inom förvaltningar som 
+hålls ordnade. 
+ 
+Myndighetens register och sökmedel till allmänna 
+handlingar 
+Förteckningar, register eller andra sökmedel som myndigheten använder 
+för allmänna handlingar: 
+Sökregister till diariet samt i verksamhetssystem. 
+IT-stöd som myndigheten använder för allmänna handlingar: 
+Ärende- och dokumenthanteringssystem (Evolution). 
+Verksamhetssystem (Lifecare/Procapita) 
+ 
+12
+Sölvesborgs kommun 
+Datum 
+2024-10-11 
+Dnr 
+  
+Sida 
+3(4) 
+ 
+ 
+Tekniska hjälpmedel för enskilda 
+Tekniska hjälpmedel som finns att tillgå för enskilda för att ta del av 
+myndighetens allmänna handlingar: 
+Diarieförda handlingar kan sökas via kommunens webbdiarium. 
+ 
+Kontaktpersoner 
+Kontaktperson för upplysningar om myndighetens allmänna handlingar: 
+Nämndsekreterare. 
+ 
+Arkivansvarig på myndigheten: 
+Förvaltningschefen. 
+ 
+Arkivredogörare på myndigheten: 
+Nämndsekreterare. 
+ 
+Inskränkningar i tillgänglighet genom sekretess 
+Tillgängligheten av vård- och omsorgsnämndens handlingar regleras i 
+tryckfrihetsförordningen, offentlighets- och sekretesslagen och arkivlagen. 
+ 
+Gallringsföreskrifter 
+Vård- och omsorgsnämndens ärenden och handlingstyper framgår av 
+särskilt upprättad dokumenthanteringsplan. Planen redovisar de handlingar 
+som ska bevaras och när de ska överföras till slutarkiv. För handlingar som 
+ska gallras redovisas de gallringsfrister som ska gälla. 
+Till denna arkivbeskrivning bifogas en dokumenthanteringsplan för vård 
+och omsorg. 
+ 
+Uppgifter som myndigheten regelbundet hämtar från 
+eller lämnar till andra 
+Individstatistik lämnas varje månad till Socialstyrelsen via 
+inrapporteringsportal Filip. 
+Rapportering av ej verkställda beslut görs till Inspektionen för vård och 
+omsorg (IVO) var tredje månad via deras e-tjänst. 
+Statistikuppgifter lämnas till Kommunens kvalitet i korthet (KKiK) en gång 
+om året via formulär. KKiK är ett nationellt projekt via Sveriges kommuner 
+och regioner (SKR). 
+13
+Sölvesborgs kommun 
+Datum 
+2024-10-11 
+Dnr 
+  
+Sida 
+4(4) 
+ 
+ 
+Uppgifter lämnas 1 gång om året till Socialstyrelsen inför 
+brukarundersökning och öppna jämförelser. Det är information om enheter 
+och viss avidentifierad information om brukare som lämnas via formulär. 
+ 
+Försäljning av personuppgifter 
+Har myndigheten rätt att sälja personuppgifter?  
+Nej. 
+Camilla Eriksson 
+Nämndsekreterare von 
+ 
+ 
+Bilagor 
+Rutin för arkivering och gallring 
+Dokumenthanteringsplan von  
+14
+DOKUMENTHANTERINGSPLAN
+VÅRD- OCH OMSORGSNÄMNDEN
+Gäller fr o m 1 januari 2024
+Von § 83
+Dnr 2023/106
+15
+Vad är en dokumenthanteringsplan?
+Detta är vård- och omsorgsnämndens regler för gallring och hantering av handlingar och information (dokumenthanteringsplan).
+Den gäller för vård- och omsorgsnämndens diarium. 
+Enligt antaget arkivreglemente och arkivlagen krävs att regler för gallring och hantering av handlingar och information upprättas. Från 2022-01-01
+är Sölvesborgs kommun medlemmar i kommunalförbundet Sydarkivera. Sydarkivera har framtagit en mall till sina medlemmar, kallad VerkSAM
+Plan.
+Utifrån VerkSAM Plan har regler för gallring och hantering av handlingar och information (dokumenthanteringsplan) tagits fram.
+Dokumenthanteringsplanen beskriver den information som nämnden hanterar. Genom reglerna finns riktlinjer om hur
+informationen/handlingarna ska hanteras.
+För att lätt hitta i dokumenthanteringsplanen i excel-format är ett tips att använda sig av Excels sökfunktion som du finner upp till höger under
+"Sök och markera". I denna funktion kan du söka på specifika ord för att lättare hitta.
+I reglerna finns gallringsbeslut, som beskriver om en handling ska bevaras eller gallras. Om handlingen ska gallras, finns tidsanvisning om detta. Om
+det inte finns gallringsbeslut på handlingar får de inte gallras.
+Regler för gallring och hantering av handlingar och information (dokumenthanteringsplan) finns till för att underlätta för varje medarbetare i sitt
+arbete. Reglerna är framtagna enligt Sydarkiveras mall och Riksarkivets gallringråd. Dokumenthanteringsplanen beskriver hur man ska hantera den
+handling som inkommit, upprättats eller expedierats hos myndigheten.
+16
+Klassificering
+(VerkSAM Diarium)
+Gallringsplan
+Informationshantering
+(Beslutas av nämnd/styrelse)
+A
+B
+C
+D
+Verksamhetsområde
+Bevaras/gallras
+Kommentarer
+Förvarings-plats,
+registreras
+Ansvar (nämnd,
+förvaltning/
+avdelning)
+Hanteringsansvisningar
+Processgrupp/huvudprocess
+Handlingstyp
+8
+VÅRD OCH OMSORG
+8
+1
+Förebyggande vård och omsorg
+AVN
+8
+1
+1
+Stöd för anhöriga
+AVN
+Stöd till anhöriga oavsett verksamhet.
+8
+1
+2
+Uppsökande verksamhet
+AVN
+8
+2
+Hälso- och sjukvård
+VON
+Enligt Hälso- och sjukvårdslagen (HSL)
+8
+2
+1
+Samverka vid utskrivning
+Lag 2017:612. Arkivering av informationen sker hos landsting/region.
+8
+2
+2
+Hantera läkemedel
+Med läkemedelshantering avses ordination, iordningsställande, administration, rekvisition och förvaring av
+läkermedel. Även vaccinationsverksamhet ingår som en del i läkemedelshanteringen. Individuell förskrivning av
+läkemedel till patient dokumenteras i patientjournalen, se 8.2.6
+Förbrukningsjournal över narkotika
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS
+Avser journal för förrådsadministration av narkotika. Gallras 10 år efter inaktualitet. (Journal över enskild patients
+förbrukning  se 8.2.6 Dokumentera i patientjournal)
+Förteckning över narkotikaansvariga sjuksköterskor
+Gallras efter 3 år
+Hålls ordnat
+Centralt
+Enhetschef
+Dvs. 3 år efter återlämnandet. Pappershandling
+Förteckningar över utlämnade kort och nycklar till läkemedelsförråd Se anmärkning
+Hålls ordnat
+Centralt
+Enhetschef
+Pappershandling. (Se 5.5.1 Skydda byggnader och egendom)
+Instruktioner för läkemedelshantering
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+Finns i ledningssystemet (Se 1.3.2  Organisera och fördela arbete och ansvar)
+Kvalitetgranskningar, protokoll och utvärderingar från fortlöpande
+uppföljning av verksamheten
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+(Se 1.5.3 Säkra och förbättra verksamhetskvalitet) G
+Läkemedelsjournal eller -lista för enskild för enskild patient
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS
+(Se 8.2.6 Dokumentera i patientjournal)
+Rekvisitioner till apotek
+Gallras efter 1 år
+Hålls ordnat
+Enheten
+PAS
+Avser rekvisitioner över läkemedel (inkl. narkotiska preparat) eller teknisk sprit till läkemedelsförråd
+8
+2
+3
+Patientsäkerhet och avvikelser
+Den som bedriver hälso- och sjukvårdsverksamhet som omfattas av IVOs tillsyn ska enligt PSL anmäla detta till IVO. En
+anmälan ska även göras om väsentliga förändringar sker i verksamheten, som t.ex. flytt, eller om verksamheten läggs
+ned. IVO är nationell tillsynsmyndighet för hälso- och sjukvården samt för socialtjänsten och verksamhet enligt LSS.
+Anmälningar enligt bestämmelser om t.ex. lex Maria i
+patientsäkerhetslag
+Bevaras
+Registreras D
+Centralt
+MAS/ Nämnd-
+sekreterare
+Anmäls till IVO. Anmäls som delegationsbeslut till von. (Se  1.5.5 Anmäla enligt Lag)
+Ansvar i patientsäkerhetsarbetet, dokumentation
+Bevaras
+Hålls ordnat
+Centralt
+MAS
+Patientsäkerhetsberättelse diarieförs och bevaras.
+Avvikelserapporter
+Gallras efter 3 år
+Hålls ordnat
+Enheten
+Respektive
+enhetschef
+(Se 1.5.2 Mäta verksamhetskvalitet). Avvikelser gallras efter 3 år om de inte behövs för lex Maria, lex Sarah eller
+försäkringsärende då gäller bevarande.
+Checklistor för vårdenheternas egenkontroll (motsv.)
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+MAS
+(Se 1.5.2 Mäta verksamhetskvalitet)
+HSAN-beslut
+Se anmärkning
+Registreras D
+Centralt
+MAS/Nämnd-
+sekreterare
+(Se 1.5.2 Mäta verksamhetskvalitet)
+Hygienrond, dokumentation
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+PPM-mätning G (Se 1.5.2 Mäta verksamhetskvalitet)
+Händelseanalyser
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+G (Se 1.5.2 Mäta verksamhetskvalitet)
+Inspektionen för vård och omsorg (IVO):s beslut
+Bevaras
+Registreras D
+Centralt
+MAS
+(Se 1.5.5 respektive 1.8.2).
+Korrespondens i förtroendefrågor mellan vårdgivare och
+patientnämnd/förtroendenämnd
+Bevaras
+Registreras D
+Centralt
+MAS
+Av betydelse för verksamheten. Av tillfällig eller ringa betydelse hålls ordnat och gallras vid inaktualitet.
+17
+Korrespondens i förtroendefrågor mellan vårdgivare och patient
+Bevaras
+Registreras D
+Centralt
+MAS
+Av betydelse för verksamheten. Av tillfällig eller ringa betydelse hålls ordnat och gallras vid inaktualitet.
+Metodböcker, rutinbeskrivningar etc i sjukhushygien
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+Finns i ledningssystemet
+Mål för kvalitets-och patientsäkerhetsarbetet
+Bevaras
+Registreras D
+Centralt
+MAS/ Enhetschef Ingår i budgeten
+Patientskaderegleringen (PSR), beslut som rör den egna vårdgivaren Bevaras
+Registreras D
+Centralt
+MAS
+(Se 1.5.5 Anmälningar enligt lag)
+Patientsäkerhetsberättelse
+Bevaras
+Registreras D
+Centralt
+MAS
+Enligt 3 kap 10 § PSL ska vårdgivaren senast 1 mars varje år upprätta en patientsäkerhetsberättelse.
+Riskanalyser
+Se anmärkning
+Hålls ordnat
+Centralt/ Enheten MAS/
+Enhetschef
+(Se 1.5.2 Mätning av verksamhetskvalitet)
+Rekommendationer (motsv.) om vårdhygien
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+Finns i ledningssystemet. (Se 1.3.2  Organisera och fördela arbete och ansvar)
+Rådgivning, dokumenterad
+Gallras efter 10 år
+V Lifecare
+Enheten
+Leg. personal
+Sammanställningar, statistik etc. över vårdhygieniska mätdata
+resultat mfl. uppgifter
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+MAS
+Skadeståndsärenden vid patientskada
+Bevaras
+Registreras D
+Centralt
+MAS
+Handläggare för försäkringsärende finns på ekonomikontoret.
+Statistik, allmän
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+MAS/ Enhetschef
+Uppföljningar av rutiner, dokumentation
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+MAS
+Ledningssystemet (Se 1.5.3 Säkra och förbättra verksamhetskvalitet)
+Utbildning i vårdhygieniska frågor, dokumentation
+Gallras vid inaktualitet/
+Bevaras
+Hålls ordnat
+Centralt
+MAS
+Ej verksamhetsunik information, byggd på föreskrifter, rutiner och information från vårdhandboken, som använts i
+utbildningen gallras vid inaktualitet. Information som är egenproducerad eller framtagen för myndighetens, vårdgivarens
+etc. räkning (bildspel, text etc.) bevaras. Ledningssystemet
+Vårdtyngdsmätning, underlag
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+MAS
+Vårdtyngdsmätning, sammanställning
+Bevaras
+Registreras D
+Centralt
+MAS
+Redovisas på von
+Åtgärdsplaner
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef
+Avser lokala planer.
+8
+2
+4
+Undersöka, vårda, behandla
+Bilder av patientspecifika skador, åtgärder etc.
+Se anmärkning
+V Lifecare
+Enheten
+PAS
+Analoga och elektroniska bilder samt teckningar. Bilder som ej utgör journalhandling (t.ex. som med patientens
+medgivande tas för undervisningssyfte) gallras vid inaktualitet. Bilder av betydelse för patientens vård och behandling,
+eller som används för information och dialog med patient ingår i patientjournal och bevaras där. (Se 8.2.6 Dokumentera i
+patientjournal)
+Checklistor till grund för uppföljning av kvalitet i vårdprocessen
+Se anmärkning
+Hålls ordnat
+Centralt
+MAS
+(Se 1.5.2 Mäta verksamhetskvalitet) Ledningssystemet
+Menyer och noteringar om val av mat
+Se anmärkning
+Hålls ordnat
+Enheten
+Baspersonal
+Menyer bevaras av tillagningskök och gallras vid inaktualitet av varje enhet. Blankett eller notering om brukarens val av
+mat gallras vid inaktualitet
+Minnesanteckningar vid överrapportering
+Se anmärkning
+Hålls ordnat
+Enheten
+Baspersonal
+Avser personalens minnesanteckningar för tillfälligt bruk rörande brukare vilket är arbetsmaterial och rensas bort vid
+inaktualitet.
+Signaturförtydligandelistor (handstilsprov)
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS
+Avser listor med signatur och namnförtydliganden som identifierar personal som dokumenterar och signerar i
+patientjournal
+Signeringslistor
+Gallras efter 10år
+Hålls ordnat
+Enheten
+PAS/ Terapeuter
+(Se 8.2.6 Dokumentera i patientjournal)
+Övervakningslistor och noteringar vid övervakning
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS
+Se listor över kontroll och mätning av patientens vakenhet, puls, blodtryck, temperatur, vakenhet etc. (Se 8.2.6
+Dokumentera i patientjournal)
+18
+8
+2
+6
+Dokumentera i patientjournal
+Avser patientjournal förd av samtliga journalföringspliktiga yrkesgrupper. Se uppräkning nedan av handlingstyper som
+kan ingå i patientjournal och företrädesvis arkiveras där. Patientjournal gallras 10 år efter senast införd uppgift enl
+patientdatalagen (2008:355) 2 kap 17 §. Födda 5, 15, 25 undantas från gallring för forskningens behov.
+Kommunal patientjournal inom omsorg
+Anamnes
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Avser patientens sjukdomshistoria
+Ansvarsövertagande vid läkemedelshantering, dokumentation
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Avbildningar, skisser etc. som beskriver planerad åtgärd eller
+resultat av åtgärd
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS 
+Bastest inför blodtransfusion
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS 
+Även korstest
+Bilder av patientspecifika skador, åtgärder etc.
+Se anmärkning
+V Lifecare
+Enheten
+PAS 
+Analoga och elektroniska bilder samt teckningar. Bilder av betydelse för patientens vård och behandling, eller som
+används för information och dialog med patient ingår i patientjournal och bevaras där. Övriga bilder (t.ex. som med
+patientens medgivande tas för undervisningssyfte) gallras vid inaktualitet.
+Blodtransfusion, uppgift om
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS 
+Blodtryckslista
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS 
+Listor över kontroll och mätning av patientens vakenhet, puls, blodtryck, temperatur etc. generellt
+Blödningsschema
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS 
+Brev eller meddelande till, från eller avseende patient
+Se anmärkning
+V Lifecare
+Enheten/ Centralt PAS
+Brev eller meddelande av betydelse för vård och behandling bevaras i patientjournal. Brev av betydelse för
+verksamheten diareförs i dokument- och ärendehanteringssystemet. Brev eller meddelande av tillfällig eller ringa
+karaktär gallras vid inaktualitet
+Checklistor av betydelse för behandling, bedömning, beslut och
+diagnos
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Checklistor av tillfällig eller ringa betydelse
+Gallras vid inaktualitet
+Hålls ordnat
+Enheten
+PAS/ Terapeuter
+Avser checklistor som t.ex. "Checklista vid hemgång" o.dyl.
+Commotio-observation, dokumentation
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Listor över kontroll och mätning av patientens vakenhet, puls, blodtryck, temperatur etc. generellt
+Daganteckningar rörande patienter
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Kallas även rapportblad
+Diabetes, uppgifter om
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Dietjournal
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Kallas även kostlista
+Dokumentation i samband med utprovning och rådgivning rörande
+hjälpmedel
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Avser insats som bedöms vara en hälso- och sjukvårdsinsats.
+Egenvårdsbedömning
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Epikris och slutanteckningar
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Utlåtande som beskriver ett sjukdomsfall med avseende på uppkomst, utveckling, förlopp och behandling
+Epikris, omvårdnads
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Filmsekvenser (elektroniska eller video)
+Se anmärkning
+V Lifecare
+Enheten
+PAS
+Film av betydelse för patientjournalens syfte och innehåll bevaras. Ingår i patientjournal, men förvaras vid behov separat,
+för att inte skadas eller skada andra handlingar. I journalen görs notering om att film finns och var den förvaras. Film som
+saknar betydelse för patientjournalens syfte gallras vid inaktualitet t.ex. film som tagits i undervisningssyfte.
+Funktionsmätning
+Gallras efter 10 år
+V Lifecare
+Enheten
+Terapeuter
+Funktionsträning, dokumentation
+Gallras efter 10 år
+V Lifecare
+Enheten
+Terapeuter
+Avser kognitiv, psykisk, social, sensomotorisk eller annan funktionsträning.
+Förbrukningsjournal över narkotika, individuell
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS
+Pappershandling
+Hembesök, dokumentation
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Hemsjukvård, ansökningar och beslut
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+19
+Hjälpmedelsordinationer
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Originalet skickas till hjälpmedelscentral eller motsvarande. Ingår i patientjournal och bevaras där.
+Information given till patient eller anhörig, och medgivande från
+denne, uppgift om
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Injektionslistor/signeringslistor
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Även i pappershandling
+Individuella vårdplaner (SIP)
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Intyg
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Den som utfärdar intyget ska anteckna detta i journalen och även spara en kopia av intyget
+Journalkopior som beställs från annan vårdgivare
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS
+Förs till den egna patientjournalen
+Laboratorieprovsvar, definitiva svar (generellt)
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Listor över administrerade (intagna) läkemedel för enskild patient
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Även i pappershandling
+Listor över intag av mat, vätska etc, generellt
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Listor över utförsel av uppmätt urin avföring, kräkning etc, generellt Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Journalhandling. Kallas även miktionlista
+Listor över kontroll och mätning av patientens vakenhet, puls,
+blodtryck, temperatur etc, generellt
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Kallas också övervakningslistor
+Ljudupptagningar
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Ljudupptagning av betydelse för undersökning, vård och behandling bevaras som del av patientjournal. Övriga
+ljudupptagningar gallras vid inaktualitet
+Läkemedelsbiverkningar, uppgift om
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Medicinsk bedömning
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+ 
+Medgivande från patient
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Medgivande kan aldrig komma från en anhörig
+MMT-test, resultat av
+Gallras efter 10 år
+V Lifecare
+Enheten
+Demenssjuk-
+sköterska
+Mini-Mental Test
+Ordinationer, generellt
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Avser ordinationslistor, ordinationskort, noteringar om telefonrecept etc.
+Ordinationer av hjälpmedel
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Planerad behandling eller annan åtgärd utifrån satta mål,
+dokumentation
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Rehabiliteringsbedömning
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Rehabiliteringsplan
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Rättad uppgift i journal
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Ev. rättelse ska göras på sådant sätt att ursprungstexten fortfarande är läsbar. Vid digital journalföring ska ändringar
+bevaras i systemets historik.
+Samtal med patient, dokumentation
+Se anmärkning
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Avser även samtal före och efter vårdtillfället. Antecknade samtal med patient av betydelse för vård och behandling
+bevaras i patientjournal, övriga gallras vid inaktualitet.
+Signeringslistor vid läkemedelsadministration (att ge läkemedel) till
+enskild patient
+Gallras efter 10 år
+V Lifecare
+Enheten
+PAS
+Även i pappershandling
+Signeringsförtydligandelistor (handstilsprov).
+Gallras efter 10 år
+Hålls ordnat
+Enheten
+PAS/ Terapeuter
+Avser listor med signatur och namnförtydliganden som identifierar personal som dokumenterar och signerar i
+patientjournal. Finns i pappershandling
+Sondmatningsschema
+Bevaras
+V Lifecare
+Enheten
+PAS
+Schemat gallras vid inaktualitet förutsatt att alla uppgifter om sondmatningen antecknats i patientjournalen
+Status
+Bevaras
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Sårvårdsjournal
+Bevaras
+V Lifecare
+Enheten
+PAS
+Telefonrådgivning
+Se anmärkning
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Se Samtal med patient, dokumentation
+20
+Testinstrument
+Bevaras
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Observera den särskilda sekretessen för uppgifter i psykologiska prov i 17 kap 4 § OSL (Går även under benämningen
+instrumentsekretess). Självskattningsinstrument etc. av betydelse för undersökning bedömning, beslut, diagnos eller
+uppföljning bevaras. Självskattningsinstrument etc. av tillfällig eller ringa betydelse gallras vid inaktualitet.
+Underlag för förskrivning (generellt)
+Bevaras
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Avser underlag för t.ex. förskrivning av hjälpmedel. Ingår i patientjournal och bevaras där.
+Utredningar
+Bevaras
+V Lifecare
+Enheten
+PAS/ Terapeuter
+Vaccinationer, medgivande/uppgifter om
+Bevaras
+V Lifecare
+Enheten
+PAS
+Varning för ex överkänslighet
+Bevaras
+V Lifecare
+Enheten
+PAS
+Vändschema
+Se anmärkning
+V Lifecare
+Enheten
+PAS
+Vändschemat gallras efter 10 år, om anteckning i journal att vändschema satts in och hur ofta vändning ska utföras har
+gjorts som bevaras.
+Elevhälsovårdsjournal
+Se anmärkning
+Se 7.1.5 Elevsocial verksamhet
+Personalhälsovårdsjournal
+Se anmärkning
+Se 2.7.5 Personalhälsa
+8
+3
+Rehabilitera
+VON
+Rehabilitering innebär insatser som syftar till att en patient med förvärvad funktionsnedsättning återvinner eller
+bibehåller bästa möjliga funktionstillstånd. Insatserna kan vara av arbetslivsinriktad, medicinsk, pedagogisk,
+psykologisk, social eller teknisk art.
+8
+3
+1
+Erbjuda fysioterapi och arbetsterapi
+Arbetsterapeutens anteckningar i patientjournal
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+(Se 8.2.6 Dokumentera i patientjournal)
+Beställning (remiss) av fysioterapi eller arbetsterapi
+Se anmärkning
+V Lifecare
+Rehab-enheten
+Terapeut
+Inkommen remiss gallras efter 5 år (men bevaras av utfärdaren).
+Fysioterapeutens journalanteckningar
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+(Se 8.2.6 Dokumentera i patientjournal)
+8
+3
+2
+Tillhandahålla hjälpmedel
+Beställning (remiss) av hjälpmedel och utprovning
+Se anmärkning
+Hålls ordnat
+Rehab-enheten
+Terapeut
+Sker digitalt via Region Blekinges system WebSesam.
+Handlingar rörande behov av bostadsanpassning
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+Avser kopia av intyg eller andra handlingar som kompletterar ansökan. (Själva ansökan hanteras av
+bostadsanpassningshandläggare på fastighetsavdelningen.) (Bevaras i patientjournal se 8.2.6. AVN - se 8.10)
+Dokumentation i samband med utprovning och rådgivning rörande
+hjälpmedel
+Gallras efter 10 år/Vid
+inaktualitet. Se
+anmärkning
+V Lifecare
+Rehab-enheten
+Terapeut
+Om insatsen bedöms vara en hälso- och sjukvårdsinsats ska den dokumenteras i patientjournal och bevaras där.  (Se
+8.2.6 Dokumentera i patientjournal.) Övriga uppgifter om utprovning och rådgivning gallras vid inaktualitet.
+Funktionsbedömningar
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+Informationsblad etc. om hjälpmedel
+Gallras vid inaktualitet
+Hålls ordnat
+Rehab-enheten
+Terapeut
+Handlingar rörande lån av hjälpmedel
+Se anmärkning
+Hålls ordnat
+Rehab-enheten
+Terapeut
+Sker digitalt via Region Blekinges system WebSesam. Avser t.ex. låneförbindelser och kvitteringar vid återlämnande av
+lånade hjälpmedel. Gallras 3 år efter återlämnandet
+Ordination av hjälpmedel
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+(Se 8.2.6 Dokumentera i patientjournal)
+Planerade fortsatta insatser, dokumentation
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+Kan ingå i utrednings- /behandlingsplan
+Rehabiliteringsinsatser, dokumentation
+Galllras efter 10 år/Vid
+inaktualitet. Se
+anmärkning
+V Lifecare
+Rehab-enheten
+Terapeut
+Uppgifter av betydelse för rehabiliteringens utformning och resultat efter 10 år, annars gallras vid inaktualitet
+Utredningsplan/Behandlingsplan
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+Det ska finnas ett mål med insatsen, vilket dokumenteras i en plan som används för pågående insatser, och vid
+uppföljning och utvärdering av insatsen. (Se 8.2.6 Dokumentera i patientjournal)
+Rekvisition av hjälpmedel
+Se anmärkning
+Hålls ordnat
+Rehab-enheten
+Terapeut
+Sker digitalt via Websesam. Gallras efter 5 år om det inte utgör räkenskapsinformation, då gallras efter 10 år.
+21
+8
+4
+Logga händelser
+VON
+Loggning i nätverk eller i databassystem har flera syften. Loggar som dokumenterar tillgång till information, vilka
+sökningar som utförts, av vem och från vilken datorplats mfl. uppgifter kan underlätta revisioner, disciplin- och
+ansvarsärenden, samt undanröja misstankar om manipulation och förebygga missbruk. Vårdgivaren har enligt 5 kap 5
+§ PdL skyldighet att på begäran lämna ut loggningsuppgifter till patient. Uppgifterna ska enligt HSLF-FS 2016:40 kap 4
+9§ istället vara så tydligt utformade att patienten kan bedöma om åtkomsten till journaluppgifterna varit befogad, och
+loggen ska innehålla uppgifter om vårdenhet och tidpunkt för när någon tagit del av journalinformationen. I den
+offentliga sjukvården kan patienten även begära att få ta del av namnet på dem som varit inloggade, vilket kan ske
+efter sekretessprövning enligt OSL.
+8
+4
+1
+Loggar
+Om uppgifter i logg leder till åtgärd ska uppgifterna bevaras tillsammans med det ärende som då bildas. Avser
+rutinmässiga loggar som dokumenterar loggar över åtkomst till patientjournaler (anropens ursprung och plats,
+ansvarig användare för operationer, datum, tidpunkt, berörda tabeller och fält, historiska samt uppdaterade värden
+etc.)
+Logguppgifter
+Gallras efter 10 år
+V Procapita/ NPÖ/G/E-
+tjänst
+Centralt
+IT-samordnare
+/MAS
+Se rutin i ledningssystemet
+8
+5
+Föra vårdrelaterade register
+VON
+8
+5
+1
+Lämna uppgifter till interna och externa register
+Uppgifter till kommunala hälso- och sjukvårdsregistret
+Se anmärkning
+Hålls ordnat
+HSL-organisa-
+tionen
+MAS
+Hälso- och sjukvården har uppgiftsskyldighet till detta register. Beslutas och hanteras av Inspektionen för vård och
+omsorg (IVO)
+8
+6
+Hantera journaler, förfrågningar och tillstånd
+VON
+Använd denna endast vid förfrågningar om överföring av information mellan vårdgivare eller forskningsprojekt som
+bedrivs av vårdgivare. I övriga fall är det bättre att använda 1.7.2 Lämna ut handlingar framförallt vid frågor från
+privatpersoner till arkivmyndighet
+8
+6
+1
+Hantera journaler och förfrågningar
+Fullmakt/Samtycke till utlämnande eller delning av uppgifter i
+journal
+Gallras tidigast efter 70
+år
+V Lifecare
+HSL-organisa-
+tionen
+MAS
+Anteckning om utlämnande ska göras i aktiva journaler, inte i de som är överlämnande till arkivmyndighet.
+Förstörande av uppgifter i patientjournal på begäran av enskild
+person, handlingar rörande
+Se anmärkning
+Registreras D
+Centralt
+MAS
+Avser t.ex. IVOs beslut om förstörande av uppgifter. När beslut finns om att en hel journal ska förstöras får ingen mapp
+eller dokumentation finnas på journalens plats. Bevaras bland diarieförda handlingar
+Journalkopior inkomna från annan vårdgivare
+Gallras efter 10 år
+V Lifecare
+Rehab-enheten
+Terapeut
+Avser kopior som beställts för patient som man har en aktuell vårdrelation till. Papperskopior förs till den
+egenupprättade patientjournalen och bevaras där. Inkomna elektroniska uppgifter bifogas egen elektronisk journal.
+Journalkopior, Anteckning om utlämnade av journalkopior
+Bevaras
+V Lifecare/
+Registreras D
+Centralt
+MAS
+Begäran om journalkopior är i första hand en beställning av en allmän handling som registreras (diarieföras). Vid
+utlämnande av journalkopior görs med fördel en notering i journalen om aktuellt diarienummer för att enkelt kunna
+spåra hela ärendet. Bevaras med tanke på ev. framtida begäran om journalförstöring eller ändring. Gäller även kopior
+från mikrofilmade, skannade eller helt digitala journaler.
+Spärr samt hävande av spärr rörande tillgång till uppgifter i
+patientjournal, uppgift om
+Bevaras
+V Lifecare
+HSL-organisa-
+tionen
+MAS
+Avser uppgifter i system för sammanhållen journalföring
+22
+8
+7
+Stöd och omsorg
+VON
+Enligt Socialtjänstlagen SoL.
+8
+7
+1
+Administration stöd och omsorg
+Anmälningar enligt lex Sarah och lex Maja
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef Anmäls till IVO. Anmälan och utredning anmäls som delegationsbeslut till von. (Se 1.5.5 Anmälningar enligt lag)
+Anslag efter justering
+Gallras efter 2 år
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+(Se 2.1 Mötesadministration)
+Ansökan enligt LOV/Förfrågningsunderlag
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef Lagen om valfrihetsystem. (LOV under upphandling 2.6.1)
+Avtal centralt
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef Exempel upphandling, verksamhetssystem, LOV
+Avtal för verksamheten
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef Exempel institutionsplaceringar
+Avtal och kontrakt av rutinmässig karaktär
+Gallras 2 år efter avtalets
+utgång
+Registreras D
+Centralt
+Avtals-tecknaren
+Avtal/kontrakt av mindre ekonomisk betydelse (Se 2.6.4 Förvalta avtal)
+Avtal - Personuppgiftsbiträdesavtal (PUB-avtal)
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef
+(Se 2.6.4 Förvalta avtal)
+Avgiftsärende
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef Omsorgsavgifter, hyror, övriga avgifter och avgiftskonstruktion. Beslutas i von i oktober och kf i november.
+Arbetsmiljöbesiktningar t.ex. skyddsrond
+Gallras efter 3 år
+Hålls ordnat
+Enheten
+Berörd chef
+Gäller protokoll. Kopia på handlingsplan och skyddsrond skickas till förvaltningschef för sammanställning. Kopian gallras
+vid inaktualitet (Se 2.8 Systematiskt arbetsmiljöarbete)
+Arbetsskador och tillbud
+Bevaras
+V Stella
+Centralt
+Berörd chef samt
+HR-specialist
+Rapporteras på von i februari och september.
+Attesträttlista
+Gallras när ny upprättas
+Hålls ordnat
+Centralt
+Ekonom
+Original ekonomikontoret, beslut i von i december.
+Begäran av allmän handling - avslag
+Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare/
+Verksam-hetschef
+Besvärsinlaga medföljer beslutet.
+Begäran av allmän handling - bifall
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+Inaktuellt efter utlämnande. Mail f k till berörda
+Delegationsordning
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef Årlig revidering, beslut i von i december.
+Dokumenthanteringsplan
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef Årlig revidering, beslut i von i december.
+Dokumentatation från metod- och verksamhetsutveckling
+Bevaras
+Registreras D
+Centralt
+Kvalitets-/ metod-
+utvecklare
+Verksamhetsplan, äldreplan, metodhandbok (Se 1.5.3 Säkra och förbättra verksamhetskvalitet)
+Dokumentation från kvalitetsarbete
+Bevaras
+Registreras D
+Centralt
+Kvalitets-
+utvecklare
+Kvalitetsberättelse. Kvalitetsgranskningar - ev protokoll och utvärdering bevaras. Underlagen gallras efter 3 år - om ny
+granskning genomförts. (Se 1.5.3 Säkra och förbättra verksamhetskvalitet)
+Ekonomi
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-
+chef/ Ekonom
+Bokslut, budget, delårsrapport, kompletteringsbudget. Beslut i von och i kf.
+Ekonomi - uppföljning
+Gallras efter 5 år
+Hålls ordnat
+Centralt
+Förvaltnings-
+chef/ Ekonom
+Redovisas månadsvis till von.
+Fonder
+Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare
+Turid och Torstens stiftelse, Nils och Gulli Svedings stiftelse, Rickard Stjärnelius fond, Thure Lindéns fond, Kristina Skarps
+gåvofond och Salomon Isak Sterns minne. Sammanställning och nämndsbeslut bevaras, ansökningarna gallras efter 1 år.
+Förteckning över boenden
+Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare
+I kö- och beläggningsstatistiken
+23
+Handlingar, ex rapporter och meddelanden som inte tillhör ärende
+och inte ger upphov till ärende
+Gallras efter 1 år
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+Lagda som meddelande til von i kallelsen
+Handlingar av tillfällig eller ringa betydelse för verksamheten
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+Cirkulär, rutinkorrespondens, kursinbjudningar, interna meddelanden mm
+Kallelse och dagordning/ ärendelista/ föredragningslista till nämnd
+och arbetsutskott
+Gallras efter 1 år
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+(Se 2.1 Mötesadministration)
+Klagomål/synpunkt av betydelse för verksamheten
+Bevaras
+Registreras D
+Centralt
+Berörd chef
+Nämndsekreterare sammanställer och redovisar på von en gång/halvår
+Klagomål/synpunkt av tillfällig eller ringa betydelse
+Gallras vid inaktualitet
+Hålls ordnat
+Enheten
+Berörd chef
+Av enkel karaktär som kan besvaras på ett rutinbetonat sätt.
+Korrespondens av vikt med enskilda utförare
+Bevaras
+Registreras D
+Centralt
+LOV-handläggare/
+Verksam-hetschef
+Kvalitetspris
+Bevaras
+Registreras D
+Centralt
+Kvalitets-
+utveckare
+Sammanställning och beslut bevaras. Övriga handlingar gallras efter 5 år.
+Nämnd, arvode
+Gallras efter 2 år
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+Skickas efter varje arvodesberättigat möte till lönekontoret för utbetalning
+Nämnd, register
+Gallras efter
+mandatperiod
+Hålls ordnat
+Centralt
+Nämnd-
+sekreterare
+Offerter
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+Ansvarig
+upphandlare
+(Se 2.6.3 Genomföra direktupphandling)
+Personalhandlingar
+Gallras efter 3 år
+Hålls ordnat
+Enheten
+Administratör
+Original till lönekontor. Ex tjänstgöringsrapport (T4), partiell tjänstledighet
+Polisanmälningar
+Bevaras
+Registreras D
+Centralt
+Berörd chef
+När kommunen polisanmäler och polisanmälningar mot kommunen. (Se 5.5.7)
+Projekthandlingar - EU-projekt
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef Ansökan, beslut, slutrapport
+Projektplaner kring aktivitet
+Gallras vid inaktualitet
+Hålls ordnat
+Enheten
+Berörd chef
+Protokoll APT
+Gallras efter 2 år
+Hålls ordnat
+Enheten
+Berörd chef
+(Se 1.3.4 Samverka med personal och fackliga organisationer)
+Protokoll SVG
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef (Se 1.3.4 Samverka med personal och fackliga organisationer)
+Protokoll FVG
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef (Se 1.3.4 Samverka med personal och fackliga organisationer)
+Protokoll MBL
+Bevaras
+Registreras D
+Centralt
+Berörd chef
+(Se 1.3.4 Samverka med personal och fackliga organisationer)
+Protokoll nämnd och arbetsutskott
+Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare
+(Se 1.2.1 Politiska beslut)
+Protokoll enhetshefsmöten
+Se anmärkning
+Registreras D/ Hålls
+ordnat
+Centralt
+Förvaltnings-chef Bevaras och registreras om de innehåller beslut. I annat fall gallras efter 2 år.
+Protokoll FLG
+Se anmärkning
+Registreras D/ Hålls
+ordnat
+Centralt
+Förvaltnings-chef Bevaras och registreras om de innehåller beslut. I annat fall gallras efter 2 år.
+Rapporter enligt lex Sarah och lex Maja
+Bevaras
+Registreras V
+Centralt
+Kvalitets-
+utvecklare
+Redovisas på von vid inkommande. Sammanställs och redovisas på von en gång/halvår.
+Revisionsrapporter
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-chef
+Riktlinjer
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef
+Revideras årligen. Beslutas i von i december
+Rutiner
+Gallras vid inaktualitet
+Hålls ordnat
+Centralt
+Kvalitets-
+utvecklare/ MAS
+Läggs i ledningssystemet. Revideras vid behov
+Sammanställning över brukarenkäter
+Bevaras
+Registreras D
+Centralt
+Kvalitets-
+utvecklare
+Ett ex av enkät bevaras tillsammans med sammanställningen. Inkomna enkätsvar gallras efter 2 år. (Se 1.5.2 Mäta
+verksamhetskvalitet)
+24
+Skadestånd - anmälan till försäkringsbolag, beslut
+Bevaras
+Registreras D
+Enheten
+Berörd chef
+Skador, stölder och ersättningar. Diarieförs om den innehåller sekretess - även skadeståndskrav och korrespondans i
+ärendet. Övriga hålls ordnade
+Statistikuppgifter
+Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare
+Verksamhetsspecifik statistik: Kö- och beläggningsstatistik, delegationsbeslut. Redovisas på von månadsvis
+Statistikuppgifter
+Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare
+Verksamhetsspecifik statistik: Utsikten. Redovisas på von halvårsvis. Underlag gallras efter 1 år.
+Statsbidrag
+Bevaras
+Registreras D
+Centralt
+Kvalitets-
+utvecklare/
+Ekonom
+Ansökan, beslut och redovisning
+Styr- och policydokument rörande verksamheten
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef Aktuell delegationsordning, dokumenthanteringsplan, reglemente, riktlinjer ligger i ledningssystemet. Revideras årligen,
+beslut i von i nov/dec (Se 1.3.1 Styrande dokument)
+Tillsynsrapporter över enskilt bedrivna verksamheter
+Bevaras
+Registreras D
+Centralt
+Verksam-hetschef (Se 1.5.2 Mäta verksamhetskvalitet)
+Tillsynsärenden och inspektioner (centralt/verksamheten)
+Bevaras
+Registreras D
+Centralt
+Förvaltnings-
+chef/Enhets-chef
+Ex Miljörförbundet, IVO, Arbetsmiljöverket
+Verksamhetsberättelser
+Bevaras
+V Stratsys
+Centralt
+Berörd chef
+Till bokslutet. Sammanställs av kvalitetsutvecklare
+Verksamhetsplan
+Bevaras
+Registreras D
+Centralt
+Kvalitets-
+utvecklare
+3-årig plan. Tas i von i januari
+Äldreplan
+Bevaras
+Registreras D
+Centralt
+Kvalitets-
+utvecklare
+10-årig plan. Tas i von i november
+8
+7
+2
+Dokumentera i personakt enligt SoL inom omsorg
+Personakterna sorteras i personnummerordning och levereras till arkivmyndigheten 5 år efter sista anteckning.
+Personakten och samtliga handlingar däri gallras 5 år efter sista anteckning. Födda 5, 15, 25 undantas från gallring för
+forskningens behov. Undantaget gäller ej avgiftshandläggning. Det som inkommer/upprättas analogt scannas in i
+Lifecare och läggs i akten. Digitalt upprättat sparas digitalt (5, 15 och 25 skrivs ut)
+Handläggarfas
+Anmälningar som tillhör ärende eller som ger upphov till ärende
+5 år/Bevaras
+V Lifecare
+Myndighets-
+enheten
+Bistånds-
+handläggare
+Anmälningar som inte tillhör ärende och inte ger upphov till ärende
+Gallras efter 5 år
+Hålls ordnat
+Myndighets-
+enheten
+Bistånds-
+handläggare
+Kronologisk pärm
+Ansökningar från enskild om bistånd eller service med eventuella
+bilagor
+5 år/Bevaras
+V Lifecare
+Myndighets-
+enheten
+Bistånds-
+handläggare
+Beslut i enskilt ärende om bistånd och/eller insats
+5 år/Bevaras
+V Lifecare
+Myndighets-
+enheten
+Bistånds-
+handläggare
+Bifall, avslag samt beslut om att ej inleda utredning. Bifall utöver riktlinjer samt avslag skrivs ut signerat och läggs i
+aktskåp. Övriga beslut finns i Lifecare endast.
+Dokumentation av planering som rör enskild
+5 år/Bevaras
+V Lifecare
+Enheten
+Berörd chef
+T.ex. genomförandeplaner, arbetsplaner, handlingsplaner, serviceplaner, vårdplaner.
+Domar
+5 år/Bevaras
+Registreras D
+Centralt
+Nämnd-
+sekreterare
+Kopia till handläggare/personakt. För kännedom till berörd enhetschef, verksamhetschef, förvaltningschef, ordförande
+samt meddelande till von.  (Se 1.5.7)
+Fullmakter
+5 år/Bevaras
+V Lifecare
+Enheten
+Bistånds-
+handläggare/
+Berörd chef
+Fullmakt om t ex att få ta del av dokumentation mm registreras i Lifecare. Originalet diarieförs om det rör rättsprocess
+med kopia till personakt. (Se 1.5.7)
+Medgivandeblankett
+5 år/Bevaras
+V Lifecare
+Enheten
+Bistånds-
+handläggare/
+Berörd chef
+Inkommande och utgående handlingar av betydelse i ärendet
+5 år/Bevaras
+V Lifecare
+Enheten
+Bistånds-
+handläggare/
+Berörd chef
+Ex. läkarintyg
+25
+Avgiftsbeslut till brukare
+Gallras efter 5 år
+V Lifecare
+Myndighets-
+enheten
+Avgifts-
+handläggare
+Jämkningsbeslut
+Gallras 10 år efter
+upphörd giltighet
+V Lifecare
+Myndighets-
+enheten
+Avgifts-
+handläggare
+Ansökan och tillhörande bilagor - Hålls ordnat i pärm
+Upprättade handlingar av betydelse i ärendet
+5 år/Bevaras
+V Lifecare
+Enheten
+Berörd chef
+Överklaganden, med bilagor
+5 år/Bevaras
+Registreras D / V
+Lifecare
+Centralt/ Enheten Nämnd-
+sekreterare/
+Bistånds-
+handläggare
+(Se 1.5.7)
+Underlag för fastställande av avgift
+Gallras efter 5 år
+V Lifecare
+Myndighets-
+enheten
+Avgifts-
+handläggare
+Inkomstförfrågan och därtill tillhörande dokument samt hyresavier och hyreskontrakt finns i akten.
+Eventuella kopior av hyreskontrakt, besiktningsprotokoll etc.
+Gallras vid inaktualitet
+Hålls ordnat
+Enheten
+Berörd chef
+Original finns hos avgiftshandläggarna och kan gallras 2 år efter att kontraktet upphört att gälla om inte hyresskuld eller
+dylikt kvarstår.
+Samordnad individuell plan (SIP)
+5 år/Bevaras
+Prator/V Lifecare
+Myndighets-
+enheten
+Bistånds-
+handläggare
+Hanteras av Regionen i Prator. Handläggare dokumenterar händelsen i Lifecare.
+Fullmakt/Samtycke till utlämnande eller delning av uppgifter i
+personakt
+Gallras tidigast efter 70
+år
+V Lifecare
+Enheten
+Berörd chef
+Anteckning om utlämnande ska göras i aktivaakter, inte i de som är överlämnande till arkivmyndighet.
+Skyddad identitet
+5 år/Bevaras
+Hålls ordnat
+Enheten
+Berörd chef
+Stor tydlig markering "SKYDDAD IDENTITET" skrivs på personakten
+Genomförandefas/verkställighet
+Anmälningar om missförhållande
+5 år/Bevaras
+V Lifecare / Hålls
+ordnat
+Enheten/
+Myndighets-
+enheten
+Berörd chef/
+Bistånds-
+handläggare
+Digitala orosanmälan och avvikelser registreras i Lifecare av biståndshandläggare. Orosanmälningar i pappersform läggs i
+akt om det leder till åtgärd, i de fall orosanmälan inte leder till utredning sparas anmälan i kronologisk pärm.
+Missförhållanden som leder till lex Sarah eller lex Maria rapporteras/anmäls
+Avtal om handhavande av annans medel
+5 år/Bevaras
+V Lifecare
+Enheten
+Berörd chef
+Redovisning av handhavda medel gallras efter 10 år
+Fickpengsredovisning
+Gallras efter 2 år
+Hålls ordnat
+Enheten
+Berörd chef
+Färdtjänstkort/färdtjänstbevis
+Se anmärkning
+Region Blekinge beslutar om färdtjänst. Beviset tillhör brukaren och är inte allmän handling. Vid inaktualitet åter till
+brukare/dödsbo
+Genomförandeplaner (arbetsplaner, omsorgsplaner m.m.)
+5 år/Bevaras
+V Lifecare
+Enheten
+Berörd chef
+Pappersversion finns i enskildas hem (gallras vid inaktualitet)
+Social dokumentation, daganteckningar
+5 år/Bevaras
+V Lifecare
+Enheten
+Berörd chef
+Handlingar som rör avvikelsehantering
+Gallras efter 5 år
+V Lifecare
+Enheten
+Berörd chef
+Rapporter/handlingar som blir del av lex Sarah-ärende registreras och bevaras med ärendeakten
+Signeringslista för hemtjänstinsats
+Gallras efter 5 år
+Phoniro
+Enheten
+Berörd chef
+Mobilsignering, planering - bevis på insats
+8
+7
+3
+Omsorg
+Boenderegister
+Gallras vid inaktualitet
+Hålls ordnat
+Gemensam mapp
+under G
+Enhetschefer
+Under ständig bearbetning
+Brukarenkäter, enkäter till närstående
+Se anmärkning
+Registreras D
+Centralt
+Kvalitets-
+utvecklare
+Upprättade enkäter, sammanställningar registreras och bevaras. Inkomna enkätsvar gallras efter 2 år (Se 1.5.2 Mäta
+verksamhetskvalitet)
+Egenkontroll livsmedelshygien, rapport om kyl, frys m.m. enligt
+egenkontrollprogram
+Se anmärkning
+Registreras D
+Centralt
+Enhetschef
+Dokumentation, analyser, inspektioner, anmärkningar, kontroller och beslut registreras. Checklistor och egna prover
+gallras efter 1 år. (Se 1.5.2 Mäta verksamhetskvalitet)
+Hyreskontrakt för särskilt boende inklusive medboende
+Se anmärkning
+Hålls ordnat
+Myndighets-
+enheten
+Avgifts-
+handläggare
+Original läggs i personakt. Kan gallras 2 år efter det att kontraktet upphört att gälla, under förutsättning att hyresskuld
+eller besiktningsanmärkning inte kvarstår. Gallras annars när personakt gallras.
+Larmloggar
+Gallras efter 3 månader
+Larmsystemet
+Teknikteamet
+Larmansvarig
+Leverantör Evron bevarar alla loggar. (Se 5.5.6 Säkerhet för brukare)
+Matsedlar
+Bevaras
+Kostenheten
+(Se 2.14.1 Planera och förbereda måltider)
+Månadsredovisning utförda dagar/timmar
+Gallras efter 2 år
+Hålls ordnat
+Myndighets-
+enheten
+Avgifts-
+handläggare
+Underlag för debitering. Larmunderlag - påbörjat eller avslutat larm sparas på G. Dagar och antal mat på korttids,
+matdistribution, dagar och antal mat/resor till dagverksamhet sparas i pärm. Dagar med trygg hemgång sparas på G.
+Notifiering åtgärdas direkt och gallras. Frånvaro kvar i systemet per brukare.
+26
+Månadsuppföljning till hemkommun
+Gallras efter 2 år
+Hålls ordnat
+Ekonomi-enheten Bistånds-
+handläggare/
+Enhetschef på
+berörd enhet/
+Ekonom
+Underlag för debitering. Ansökan med faktureringsunderlag till biståndshandläggare. Verkställigheten rapporterar
+utförda insatser.
+Nyckelkvittenser till brukares boenden
+Se anmärkning
+Hålls ordnat
+Enheten
+Berörd chef
+Se 5.5.6 Säkerhet för brukare. Pappershandling
+Nyckelkvittenser, personal, enhetens nycklar
+Se anmärkning
+Hålls ordnat
+Enheten
+Berörd chef
+Se 5.5.6 Säkerhet för brukare. Taggar registreras på medborgarkontoret
+Protokoll/mötesanteckningar från boenderåd (eller motsvarande
+samråd med de boende/och eller deras närstående
+Bevaras
+Hålls ordnat
+Enheten
+Berörd chef
+(Se 1.5.6 Forum för samråd)
+Protokoll/mötesanteckningar från möten med föreståndare för de
+särskilda boendeformerna
+Bevaras
+Hålls ordnat
+Enheten
+Berörd chef
+(Se 1.3.3 Leda det interna arbetet)
+Register över innehavare av trygghetstelefon/-larm
+Gallras vid inaktualitet
+Hålls ordnat
+Teknikteamet
+Larmansvarig
+Hålls uppdaterat. Listor och larmkort finns utskrivna och inlåsta på respektive enhet. (Se 5.5.6 Säkerhet för brukare)
+Personalscheman
+Gallras vid inaktualitet
+TimeCare
+Enheten
+Berörd chef
+(Se 2.9.1 Registrera tjänstgöring och lön)
+8
+7
+4
+Aktiviteter/öppen verksamhet
+VON/AVN
+VON: Dagverksamhet för personer med demenssjukdom (Sunnanbo). AVN: Öppna mötesplatser
+Aktivitetsutbud, program i dagverksamhet
+Bevaras
+Hålls ordnat
+Enheten
+Berörd chef
+Avpersonifierad deltagarstatistik i dagverksamheten
+Bevaras
+Hålls ordnat
+Enheten
+Berörd chef
+Verksamhetsberättelser
+Bevaras
+Registreras D
+Enheten
+Berörd chef
+Läggs i bokslutet. (Se 1.4.1 Mål- och ekonomistyrning)
+Deltagarlistor
+Gallras vid inaktualitet
+Hålls ordnat
+Enheten
+Berörd chef
+Under ständig bearbetning
+Närvarorapporter
+Gallras efter 2 år
+Hålls ordnat
+Enheten
+Berörd chef
+Underlag för debitering
+27
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 94 
+Dnr 2024/22 
+Kö- och beläggningsstatistik 2024 
+BESLUT 
+Informationen tas till handlingarna. 
+__________ 
+Ärendet i korthet 
+Information av nämndsekreterare Camilla Eriksson angående disponibla 
+platser/lägenheter i särskilda boende, beläggningen, antal sökande samt kostnader 
+för institutionsplacerade och utskrivningsklara under oktober 2024. 
+Beslutsunderlag 
+Köstatistik oktober 2024 
+Beläggningsstatistik oktober 2024 
+__________  
+ 
+28
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 95 
+Dnr 2024/1 
+Anmälan av delegationsbeslut 
+BESLUT 
+Anmälningarna läggs till handlingarna. 
+__________ 
+1.         273 st meddelade delegationsbeslut rörande hemtjänst och särskilda  
+            boenden under oktober 2024.   
+• 
+Biståndshandläggare – 268 bifall och 5 avslag 
+ 
+2.  
+Av André Jönsson, förvaltningschef och Camilla Ryrstedt, verksamhetschef, 
+meddelat delegationsbeslut gällande begäran om information gällande 
+granskade avvikelser samt svar på frågor om bemanning och rutiner från 
+Timansstenar. Dnr 2024/5. 
+ 
+3. 
+Av André Jönsson, förvaltningschef, meddelat delegationsbeslut gällande 1 
+st lex Sarah-utredning enligt 14 kap 6 § SoL om missförhållande eller en 
+påtaglig risk för missförhållande. 
+ 
+Nr 2158. Dnr 2024/83. 
+ 
+__________  
+ 
+29
+SAMMANTRÄDESPROTOKOLL 
+ 
+1(1) 
+Sammanträdesdatum 
+2024-11-21 
+ 
+ 
+ 
+Vård- och omsorgsnämnden 
+ 
+ 
+ 
+Justerandes sign 
+Utdragsbestyrkande 
+ 
+ 
+ 
+ 
+ 
+ 
+Informationsklass: 0 - Öppen
+VON § 96 
+Dnr 2024/2 
+Meddelande 
+BESLUT 
+Meddelandena läggs till handlingarna. 
+__________ 
+ 
+1. Protokoll från sammanträde med Politisk samverkan vård och omsorg 
+(PSVO), 2024-10-11. 
+__________  
+ 
+30
