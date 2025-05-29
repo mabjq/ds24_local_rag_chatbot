@@ -157,7 +157,6 @@ def run_rag_query(query, config):
 
     return response, docs
 
-# Körs om skriptet exekveras direkt – inte om det importeras
 if __name__ == "__main__":
     # Testkör RAG-pipelinen med exempel frågor
     config = load_config()
