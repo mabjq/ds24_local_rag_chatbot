@@ -6,12 +6,12 @@
 import fitz  # PyMuPDF för att läsa och extrahera text från PDF-filer
 import os
 
-# Definiera projektets sökvägar relativt rotmappen
+# Definiera projektets sökvägar 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # Rotmapp för projektet
 pdf_dir = os.path.join(PROJECT_ROOT, "documents")                           # Mapp med ursprungliga PDF-protokoll
 output_dir = os.path.join(PROJECT_ROOT, "data")                             # Mapp för extraherade textfiler
 agenda_dir = os.path.join(output_dir, "agendas")                            # Mapp för ärendelistor
-frontpage_dir = os.path.join(output_dir, "frontpages")                      # Mapp för förstasidor (t.ex. närvarolistor)
+frontpage_dir = os.path.join(output_dir, "frontpages")                      # Mapp för förstasidor (närvarolistor)
 
 # Skapa utdatamappar om de inte finns
 os.makedirs(output_dir, exist_ok=True)
