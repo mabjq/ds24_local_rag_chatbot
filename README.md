@@ -2,7 +2,7 @@
 A RAG-based chatbot for querying healthcare and welfare committee protocols using **Gemma 3** (via Ollama), LangChain, ChromaDB, and Streamlit.
 
 ## Language Note
-This README is written in English to align with GitHub conventions and to make the project accessible to a broader audience. The code comments and additional documents (Discussion, Self-Evaluation, and Theoretical Questions) are in Swedish to match the course requirements. A brief Swedish summary is provided below.
+This README is written in English to align with GitHub conventions and to make the project accessible to a broader audience. The code comments and additional documents (Discussion, Self-Evaluation, and Theoretical Questions) are in Swedish to match the preferred report language for the course. A brief Swedish summary is provided below.
 
 ## Svensk Sammanfattning
 Detta projekt är en RAG-baserad chattbot för att söka i vård- och omsorgsnämndens protokoll i Sölvesborgs kommun. Lösningen använder lokal installation och open-source teknik (Gemma 3 via Ollama, LangChain, ChromaDB, Streamlit) för att göra den säker för känslig data, kostnadseffektiv och transparent. Projektet är utvecklat som en del av en kurs och demonstrerar hur AI kan förbättra informationsåtkomst i offentlig förvaltning. Koden är kommenterad på svenska, och ytterligare dokumentation (Diskussion, Självutvärdering, Teoretiska frågor) är också på svenska.
